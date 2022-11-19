@@ -1964,3 +1964,103 @@
 [INFO ] [2022-11-19 22:17:20,918] Verify the login is successfully
 [INFO ] [2022-11-19 22:17:21,000]  -------------------------- PASSED -------------------------- 
 [INFO ] [2022-11-19 22:17:21,001] Post-Condition: Close browser
+[INFO ] [2022-11-19 22:58:23,919] ---------- START delete file in folder ----------
+[INFO ] [2022-11-19 22:58:23,920] ---------- END delete file in folder ----------
+[INFO ] [2022-11-19 22:58:23,932] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-11-19 22:58:31,140] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-11-19 22:58:32,804] Click to Gender Male Radio
+[INFO ] [2022-11-19 22:58:32,964] Enter First Name Textbox
+[INFO ] [2022-11-19 22:58:33,182] Enter Last Name Textbox
+[INFO ] [2022-11-19 22:58:33,374] Select Day from Dropdown
+[INFO ] [2022-11-19 22:58:33,548] Select Month from Dropdown
+[INFO ] [2022-11-19 22:58:33,710] Select Year from Dropdown
+[INFO ] [2022-11-19 22:58:33,869] Enter Email Adress from Textbox
+[INFO ] [2022-11-19 22:58:34,091] Enter Company Name from Textbox
+[INFO ] [2022-11-19 22:58:34,308] Enter Password from Textbox
+[INFO ] [2022-11-19 22:58:34,507] Enter Confirm Password from Textbox
+[INFO ] [2022-11-19 22:58:34,716] Click To Register Button
+[INFO ] [2022-11-19 22:58:38,868] Verify the register is successfully
+[INFO ] [2022-11-19 22:58:38,985]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 22:58:38,988] Click To Logout Button
+[INFO ] [2022-11-19 22:58:39,857] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-11-19 22:58:41,320] Enter Email Address from Textbox
+[INFO ] [2022-11-19 22:58:41,544] Enter Password from Textbox
+[INFO ] [2022-11-19 22:58:41,779] Click To Login Button
+[INFO ] [2022-11-19 22:58:42,664] Verify the login is successfully
+[INFO ] [2022-11-19 22:58:42,751]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 22:58:42,755] Post-Condition: Close browser
+[INFO ] [2022-11-19 22:59:27,704] ---------- START delete file in folder ----------
+[INFO ] [2022-11-19 22:59:27,705] ---------- END delete file in folder ----------
+[INFO ] [2022-11-19 22:59:27,721] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-11-19 22:59:32,797] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-11-19 22:59:34,460] Click to Gender Male Radio
+[INFO ] [2022-11-19 22:59:34,665] Enter First Name Textbox
+[INFO ] [2022-11-19 22:59:34,879] Enter Last Name Textbox
+[INFO ] [2022-11-19 22:59:35,111] Select Day from Dropdown
+[INFO ] [2022-11-19 22:59:35,276] Select Month from Dropdown
+[INFO ] [2022-11-19 22:59:35,431] Select Year from Dropdown
+[INFO ] [2022-11-19 22:59:35,579] Enter Email Adress from Textbox
+[INFO ] [2022-11-19 22:59:35,802] Enter Company Name from Textbox
+[INFO ] [2022-11-19 22:59:36,010] Enter Password from Textbox
+[INFO ] [2022-11-19 22:59:36,239] Enter Confirm Password from Textbox
+[INFO ] [2022-11-19 22:59:36,437] Click To Register Button
+[INFO ] [2022-11-19 22:59:40,670] Verify the register is successfully
+[INFO ] [2022-11-19 22:59:40,744]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 22:59:40,746] Click To Logout Button
+[INFO ] [2022-11-19 22:59:41,559] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-11-19 22:59:42,427] Enter Email Address from Textbox
+[INFO ] [2022-11-19 22:59:42,640] Enter Password from Textbox
+[INFO ] [2022-11-19 22:59:42,854] Click To Login Button
+[INFO ] [2022-11-19 22:59:43,695] Verify the login is successfully
+[INFO ] [2022-11-19 22:59:43,779]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 22:59:43,782] Post-Condition: Close browser
+[INFO ] [2022-11-19 23:01:48,464] ---------- START delete file in folder ----------
+[INFO ] [2022-11-19 23:01:48,466] ---------- END delete file in folder ----------
+[INFO ] [2022-11-19 23:01:48,482] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-11-19 23:01:53,569] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-11-19 23:01:55,244] Click to Gender Male Radio
+[INFO ] [2022-11-19 23:01:55,395] Enter First Name Textbox
+[INFO ] [2022-11-19 23:01:55,603] Enter Last Name Textbox
+[INFO ] [2022-11-19 23:01:55,810] Select Day from Dropdown
+[INFO ] [2022-11-19 23:01:55,975] Select Month from Dropdown
+[INFO ] [2022-11-19 23:01:56,133] Select Year from Dropdown
+[INFO ] [2022-11-19 23:01:56,279] Enter Email Adress from Textbox
+[INFO ] [2022-11-19 23:01:56,508] Enter Company Name from Textbox
+[INFO ] [2022-11-19 23:01:56,732] Enter Password from Textbox
+[INFO ] [2022-11-19 23:01:56,935] Enter Confirm Password from Textbox
+[INFO ] [2022-11-19 23:01:57,147] Click To Register Button
+[INFO ] [2022-11-19 23:02:01,645] Verify the register is successfully
+[INFO ] [2022-11-19 23:02:01,750]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 23:02:01,753] Click To Logout Button
+[INFO ] [2022-11-19 23:02:02,597] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-11-19 23:02:03,615] Enter Email Address from Textbox
+[INFO ] [2022-11-19 23:02:03,854] Enter Password from Textbox
+[INFO ] [2022-11-19 23:02:04,058] Click To Login Button
+[INFO ] [2022-11-19 23:02:04,926] Verify the login is successfully
+[INFO ] [2022-11-19 23:02:05,006]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 23:02:05,009] Post-Condition: Close browser
+[INFO ] [2022-11-19 23:03:10,457] ---------- START delete file in folder ----------
+[INFO ] [2022-11-19 23:03:10,458] ---------- END delete file in folder ----------
+[INFO ] [2022-11-19 23:03:10,474] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-11-19 23:03:15,796] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-11-19 23:03:17,368] Click to Gender Male Radio
+[INFO ] [2022-11-19 23:03:17,528] Enter First Name Textbox
+[INFO ] [2022-11-19 23:03:17,740] Enter Last Name Textbox
+[INFO ] [2022-11-19 23:03:17,935] Select Day from Dropdown
+[INFO ] [2022-11-19 23:03:18,104] Select Month from Dropdown
+[INFO ] [2022-11-19 23:03:18,253] Select Year from Dropdown
+[INFO ] [2022-11-19 23:03:18,403] Enter Email Adress from Textbox
+[INFO ] [2022-11-19 23:03:18,610] Enter Company Name from Textbox
+[INFO ] [2022-11-19 23:03:18,818] Enter Password from Textbox
+[INFO ] [2022-11-19 23:03:19,085] Enter Confirm Password from Textbox
+[INFO ] [2022-11-19 23:03:19,295] Click To Register Button
+[INFO ] [2022-11-19 23:03:23,537] Verify the register is successfully
+[INFO ] [2022-11-19 23:03:23,651]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 23:03:23,654] Click To Logout Button
+[INFO ] [2022-11-19 23:03:24,549] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-11-19 23:03:25,424] Enter Email Address from Textbox
+[INFO ] [2022-11-19 23:03:25,660] Enter Password from Textbox
+[INFO ] [2022-11-19 23:03:25,865] Click To Login Button
+[INFO ] [2022-11-19 23:03:26,815] Verify the login is successfully
+[INFO ] [2022-11-19 23:03:26,906]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 23:03:26,909] Post-Condition: Close browser

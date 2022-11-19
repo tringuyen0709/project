@@ -10,7 +10,7 @@ public class HomePageObjectTri extends BasePage {
 	
 	public HomePageObjectTri(WebDriver _driver) {
 		driver = _driver;
-		System.out.println("Driver ID at Page Object Class: " + driver.toString());
+//		System.out.println("Driver ID at Page Object Class: " + driver.toString());
 		
 	}
 

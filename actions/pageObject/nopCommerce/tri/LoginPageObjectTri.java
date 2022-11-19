@@ -12,7 +12,7 @@ public class LoginPageObjectTri extends BasePage {
 	public LoginPageObjectTri(WebDriver _driver) {
 		
 		driver = _driver;
-		System.out.println("Driver ID at Page Object Class: " + driver.toString());
+//		System.out.println("Driver ID at Page Object Class: " + driver.toString());
 		
 		
 	}
