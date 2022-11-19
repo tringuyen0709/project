@@ -1,0 +1,1966 @@
+[INFO ] [2021-11-22 11:47:04,740] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-22 11:47:24,481] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-22 11:47:26,531] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-22 11:47:26,921] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-22 11:47:27,813] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-22 11:47:28,067] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-22 11:47:28,680] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-22 11:47:29,063] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-22 11:47:29,431] User_01_Register - Step 08: Enter Email Adressafc7598@mail.net
+[INFO ] [2021-11-22 11:47:29,586] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-22 11:47:29,741] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-22 11:47:29,899] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-22 11:47:30,109] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-22 11:47:32,698] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-22 11:47:33,061] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-22 11:47:37,901] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-22 11:47:39,977] User_01_Register - Step 02: Enter Email for login with value:afc7598@mail.net
+[INFO ] [2021-11-22 11:47:40,424] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-22 11:47:40,982] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-22 11:47:42,842] Post-Condition: Close browser
+[INFO ] [2021-11-22 13:34:51,394] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-22 13:35:10,775] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-22 13:35:13,419] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-22 13:35:14,087] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-22 13:35:14,354] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-22 13:35:14,552] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-22 13:35:15,060] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-22 13:35:15,473] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-22 13:35:15,869] User_01_Register - Step 08: Enter Email Adressafc3972@mail.net
+[INFO ] [2021-11-22 13:35:16,037] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-22 13:35:16,225] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-22 13:35:16,437] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-22 13:35:16,626] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-22 13:35:18,756] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-22 13:35:19,038] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-22 13:35:24,541] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-22 13:35:26,302] User_01_Register - Step 02: Enter Email for login with value:afc3972@mail.net
+[INFO ] [2021-11-22 13:35:26,712] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-22 13:35:26,878] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-22 13:35:28,342] Post-Condition: Close browser
+[INFO ] [2021-11-22 13:42:37,828] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-22 13:42:54,559] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-22 13:42:56,989] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-22 13:42:57,613] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-22 13:42:57,844] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-22 13:42:58,005] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-22 13:42:58,497] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-22 13:42:58,908] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-22 13:42:59,357] User_01_Register - Step 08: Enter Email Adressafc8665@mail.net
+[INFO ] [2021-11-22 13:42:59,614] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-22 13:42:59,832] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-22 13:43:00,179] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-22 13:43:00,382] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-22 13:43:02,534] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-22 13:43:02,812] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-22 13:43:08,169] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-22 13:43:10,107] User_01_Register - Step 02: Enter Email for login with value:afc8665@mail.net
+[INFO ] [2021-11-22 13:43:10,508] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-22 13:43:10,672] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-22 13:43:12,735] Post-Condition: Close browser
+[INFO ] [2021-11-22 14:45:07,273] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-22 14:45:26,340] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-22 14:45:29,633] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-22 14:45:30,111] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-22 14:45:30,299] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-22 14:45:31,019] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-22 14:45:31,674] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-22 14:45:32,225] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-22 14:45:32,691] User_01_Register - Step 08: Enter Email Adressafc8795@mail.net
+[INFO ] [2021-11-22 14:45:32,881] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-22 14:45:33,134] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-22 14:45:33,396] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-22 14:45:33,625] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-22 14:45:36,579] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-22 14:45:36,872] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-22 14:45:43,092] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-22 14:45:45,418] User_01_Register - Step 02: Enter Email for login with value:afc8795@mail.net
+[INFO ] [2021-11-22 14:45:45,788] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-22 14:45:46,010] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-22 14:45:47,775] Post-Condition: Close browser
+[INFO ] [2021-11-22 18:24:03,309] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-22 18:24:23,862] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-22 18:24:26,315] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-22 18:24:27,030] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-22 18:24:27,331] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-22 18:24:27,524] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-22 18:24:27,938] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-22 18:24:28,290] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-22 18:24:28,640] User_01_Register - Step 08: Enter Email Adressafc7879@mail.net
+[INFO ] [2021-11-22 18:24:28,760] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-22 18:24:28,918] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-22 18:24:29,059] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-22 18:24:29,205] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-22 18:24:31,925] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-22 18:24:32,222] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-22 18:24:38,556] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-22 18:24:39,581] User_01_Register - Step 02: Enter Email for login with value:afc7879@mail.net
+[INFO ] [2021-11-22 18:24:39,867] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-22 18:24:40,069] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-22 18:24:42,224] Post-Condition: Close browser
+[INFO ] [2021-11-22 18:25:37,973] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-22 18:25:52,508] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-22 18:25:54,432] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-22 18:25:54,824] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-22 18:25:54,965] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-22 18:25:55,111] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-22 18:25:55,490] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-22 18:25:55,812] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-22 18:25:56,128] User_01_Register - Step 08: Enter Email Adressafc8309@mail.net
+[INFO ] [2021-11-22 18:25:56,247] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-22 18:25:56,417] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-22 18:25:56,536] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-22 18:25:56,674] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-22 18:25:59,102] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-22 18:25:59,279]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-22 18:25:59,281] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-22 18:26:04,302] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-22 18:26:05,447] User_01_Register - Step 02: Enter Email for login with value:afc8309@mail.net
+[INFO ] [2021-11-22 18:26:05,735] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-22 18:26:05,927] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-22 18:26:08,374] Post-Condition: Close browser
+[INFO ] [2021-11-22 19:50:45,124] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-22 19:51:06,872] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-22 19:51:09,285] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-22 19:51:09,762] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-22 19:51:09,966] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-22 19:51:10,098] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-22 19:51:10,479] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-22 19:51:10,837] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-22 19:51:11,361] User_01_Register - Step 08: Enter Email Adress afc3277@mail.net
+[INFO ] [2021-11-22 19:51:11,556] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-22 19:51:11,770] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-22 19:51:11,991] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-22 19:51:12,163] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-22 19:51:14,837] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-22 19:51:15,288]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-22 19:51:15,295] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-22 19:51:20,633] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-22 19:51:22,215] User_01_Register - Step 02: Enter Email for login with value:afc3277@mail.net
+[INFO ] [2021-11-22 19:51:22,514] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-22 19:51:22,713] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-22 19:51:24,034] Post-Condition: Close browser
+[INFO ] [2021-11-22 19:55:40,910] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-22 19:55:57,811] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-22 19:55:59,913] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-22 19:56:00,411] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-22 19:56:00,556] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-22 19:56:00,795] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-22 19:56:01,148] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-22 19:56:01,467] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-22 19:56:01,846] User_01_Register - Step 08: Enter Email Adress afc4085@mail.net
+[INFO ] [2021-11-22 19:56:01,967] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-22 19:56:02,108] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-22 19:56:02,261] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-22 19:56:02,452] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-22 19:56:04,398] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-22 19:56:04,759]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-22 19:56:04,764] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-22 19:56:10,771] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-22 19:56:11,613] User_01_Register - Step 02: Enter Email for login with value:afc4085@mail.net
+[INFO ] [2021-11-22 19:56:11,947] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-22 19:56:12,119] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-22 19:56:14,371] Post-Condition: Close browser
+[INFO ] [2021-11-22 21:52:33,952] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-22 21:52:54,013] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-22 21:52:56,369] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-22 21:52:56,865] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-22 21:52:57,085] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-22 21:52:57,350] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-22 21:52:58,034] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-22 21:52:58,422] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-22 21:52:58,897] User_01_Register - Step 08: Enter Email Adress afc592@mail.net
+[INFO ] [2021-11-22 21:52:59,069] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-22 21:52:59,244] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-22 21:52:59,412] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-22 21:52:59,645] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-22 21:53:01,843] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-22 21:53:02,140]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-22 21:53:02,146] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-22 21:53:08,215] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-22 21:53:09,791] User_01_Register - Step 02: Enter Email for login with value:afc592@mail.net
+[INFO ] [2021-11-22 21:53:10,157] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-22 21:53:10,337] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-22 21:53:11,757] Post-Condition: Close browser
+[INFO ] [2021-11-22 21:53:13,932] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-22 21:53:25,961] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-22 21:53:28,094] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-22 21:53:28,372] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-22 21:53:28,906] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-22 21:53:29,285] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-22 21:53:29,550] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-22 21:53:29,869] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-22 21:53:30,133] User_01_Register - Step 08: Enter Email Adress afc9699@mail.net
+[INFO ] [2021-11-22 21:53:30,544] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-22 21:53:30,978] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-22 21:53:31,360] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-22 21:53:31,740] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-22 21:53:33,853] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-22 21:53:34,004]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-22 21:53:34,004] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-22 21:53:39,560] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-22 21:53:41,514] User_01_Register - Step 02: Enter Email for login with value:afc9699@mail.net
+[INFO ] [2021-11-22 21:53:41,880] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-22 21:53:42,219] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-22 21:53:45,920] Post-Condition: Close browser
+[INFO ] [2021-11-22 22:01:09,172] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-22 22:01:25,784] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-22 22:01:27,160] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-22 22:01:27,641] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-22 22:01:27,856] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-22 22:01:28,175] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-22 22:01:28,590] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-22 22:01:28,934] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-22 22:01:29,294] User_01_Register - Step 08: Enter Email Adress afc3273@mail.net
+[INFO ] [2021-11-22 22:01:29,419] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-22 22:01:29,561] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-22 22:01:30,256] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-22 22:01:30,521] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-22 22:01:33,442] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-22 22:01:33,867]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-22 22:01:33,875] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-22 22:01:39,941] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-22 22:01:41,393] User_01_Register - Step 02: Enter Email for login with value:afc3273@mail.net
+[INFO ] [2021-11-22 22:01:41,738] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-22 22:01:41,906] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-22 22:01:44,072] Post-Condition: Close browser
+[INFO ] [2021-11-22 22:01:46,512] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-22 22:01:56,012] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-22 22:01:58,141] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-22 22:01:58,438] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-22 22:01:58,883] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-22 22:01:59,259] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-22 22:01:59,603] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-22 22:01:59,878] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-22 22:02:00,140] User_01_Register - Step 08: Enter Email Adress afc8527@mail.net
+[INFO ] [2021-11-22 22:02:00,542] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-22 22:02:00,935] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-22 22:02:01,321] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-22 22:02:01,684] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-22 22:02:04,914] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-22 22:02:05,067]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-22 22:02:05,068] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-22 22:02:11,356] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-22 22:02:13,275] User_01_Register - Step 02: Enter Email for login with value:afc8527@mail.net
+[INFO ] [2021-11-22 22:02:13,732] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-22 22:02:14,124] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-22 22:02:17,661] Post-Condition: Close browser
+[INFO ] [2021-11-22 22:02:18,726] Pre-Condition - Open browser 'edge' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-23 20:38:07,270] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-23 20:38:24,619] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-23 20:38:26,776] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-23 20:38:27,146] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-23 20:38:27,314] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-23 20:38:27,483] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-23 20:38:27,880] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-23 20:38:28,220] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-23 20:38:28,585] User_01_Register - Step 08: Enter Email Adress afc9590@mail.net
+[INFO ] [2021-11-23 20:38:28,777] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-23 20:38:28,969] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-23 20:38:29,184] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-23 20:38:29,403] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-23 20:38:32,040] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-23 20:38:32,311]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-23 20:38:32,317] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-23 20:38:37,614] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-23 20:38:39,184] User_01_Register - Step 02: Enter Email for login with value:afc9590@mail.net
+[INFO ] [2021-11-23 20:38:39,437] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-23 20:38:39,644] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-23 20:38:40,855] Post-Condition: Close browser
+[INFO ] [2021-11-23 20:38:42,744] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-23 20:38:49,013] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-23 20:38:50,529] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-23 20:38:50,831] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-23 20:38:51,209] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-23 20:38:51,545] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-23 20:38:51,828] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-23 20:38:52,082] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-23 20:38:52,348] User_01_Register - Step 08: Enter Email Adress afc490@mail.net
+[INFO ] [2021-11-23 20:38:52,796] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-23 20:38:53,165] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-23 20:38:53,530] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-23 20:38:53,879] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-23 20:38:56,589] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-23 20:38:56,793]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-23 20:38:56,799] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-23 20:39:02,551] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-23 20:39:04,657] User_01_Register - Step 02: Enter Email for login with value:afc490@mail.net
+[INFO ] [2021-11-23 20:39:05,082] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-23 20:39:05,442] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-23 20:39:07,721] Post-Condition: Close browser
+[INFO ] [2021-11-23 20:39:08,674] Pre-Condition - Open browser 'edge' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-23 22:17:15,153] ---------- START delete file in folder ----------
+[INFO ] [2021-11-23 22:17:15,156] ---------- END delete file in folder ----------
+[INFO ] [2021-11-23 22:17:15,178] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-23 22:17:31,458] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-23 22:17:33,596] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-23 22:17:34,019] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-23 22:17:34,233] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-23 22:17:34,513] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-23 22:17:34,893] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-23 22:17:35,206] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-23 22:17:35,519] User_01_Register - Step 08: Enter Email Adress afc9757@mail.net
+[INFO ] [2021-11-23 22:17:35,621] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-23 22:17:35,753] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-23 22:17:35,880] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-23 22:17:36,013] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-23 22:17:37,743] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-23 22:17:37,901]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-23 22:17:37,904] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-23 22:17:42,857] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-23 22:17:44,595] User_01_Register - Step 02: Enter Email for login with value:afc9757@mail.net
+[INFO ] [2021-11-23 22:17:44,904] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-23 22:17:45,103] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-23 22:17:47,391] Post-Condition: Close browser
+[INFO ] [2021-11-23 23:38:35,212] ---------- START delete file in folder ----------
+[INFO ] [2021-11-23 23:38:35,215] ---------- END delete file in folder ----------
+[INFO ] [2021-11-23 23:38:35,240] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-23 23:38:54,578] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-23 23:38:57,118] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-23 23:38:57,663] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-23 23:38:57,898] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-23 23:38:58,076] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-23 23:38:58,523] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-23 23:38:58,909] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-23 23:38:59,357] User_01_Register - Step 08: Enter Email Adress afc8846@mail.net
+[INFO ] [2021-11-23 23:38:59,497] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-23 23:38:59,649] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-23 23:38:59,820] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-23 23:39:00,013] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-23 23:39:02,125] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-23 23:39:02,409]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-23 23:39:02,417] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-23 23:39:08,546] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-23 23:39:09,750] User_01_Register - Step 02: Enter Email for login with value:afc8846@mail.net
+[INFO ] [2021-11-23 23:39:10,177] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-23 23:39:10,342] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-23 23:39:13,209] Post-Condition: Close browser
+[INFO ] [2021-11-23 23:42:30,877] ---------- START delete file in folder ----------
+[INFO ] [2021-11-23 23:42:30,880] ---------- END delete file in folder ----------
+[INFO ] [2021-11-23 23:42:30,904] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-23 23:42:43,640] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-23 23:42:45,790] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-23 23:42:46,433] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-23 23:42:46,783] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-23 23:42:46,943] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-23 23:42:47,360] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-23 23:42:47,778] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-23 23:42:48,144] User_01_Register - Step 08: Enter Email Adress afc4478@mail.net
+[INFO ] [2021-11-23 23:42:48,293] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-23 23:42:48,443] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-23 23:42:48,588] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-23 23:42:48,730] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-23 23:42:51,296] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-23 23:42:51,513]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-11-23 23:42:51,532] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-23 23:42:56,618] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-23 23:42:57,465] User_01_Register - Step 02: Enter Email for login with value:afc4478@mail.net
+[INFO ] [2021-11-23 23:42:57,721] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-23 23:42:57,901] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-23 23:42:59,665] Post-Condition: Close browser
+[INFO ] [2021-11-23 23:59:23,782] ---------- START delete file in folder ----------
+[INFO ] [2021-11-23 23:59:23,785] ---------- END delete file in folder ----------
+[INFO ] [2021-11-23 23:59:23,809] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-23 23:59:38,989] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-23 23:59:41,193] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-23 23:59:41,689] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-23 23:59:41,844] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-23 23:59:42,113] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-23 23:59:42,472] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-23 23:59:42,793] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-23 23:59:43,148] User_01_Register - Step 08: Enter Email Adress afc1402@mail.net
+[INFO ] [2021-11-23 23:59:43,273] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-23 23:59:43,417] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-23 23:59:43,558] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-23 23:59:43,682] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-23 23:59:45,756] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-23 23:59:46,030]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-11-23 23:59:46,042] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-23 23:59:52,049] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-23 23:59:53,796] User_01_Register - Step 02: Enter Email for login with value:afc1402@mail.net
+[INFO ] [2021-11-23 23:59:54,124] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-23 23:59:54,298] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-23 23:59:57,227] Post-Condition: Close browser
+[INFO ] [2021-11-24 00:10:25,030] ---------- START delete file in folder ----------
+[INFO ] [2021-11-24 00:10:25,032] ---------- END delete file in folder ----------
+[INFO ] [2021-11-24 00:10:25,060] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-24 00:10:41,160] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-24 00:10:43,468] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-24 00:10:44,020] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-24 00:10:44,228] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-24 00:10:44,464] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-24 00:10:44,837] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-24 00:10:45,268] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-24 00:10:45,664] User_01_Register - Step 08: Enter Email Adress afc7003@mail.net
+[INFO ] [2021-11-24 00:10:45,828] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-24 00:10:46,023] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-24 00:10:46,212] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-24 00:10:46,386] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-24 00:10:49,174] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-24 00:10:49,428]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-24 00:10:49,440] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-24 00:10:54,742] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-24 00:10:56,452] User_01_Register - Step 02: Enter Email for login with value:afc7003@mail.net
+[INFO ] [2021-11-24 00:10:56,810] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-24 00:10:56,983] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-24 00:10:58,586] Post-Condition: Close browser
+[INFO ] [2021-11-24 00:26:55,699] ---------- START delete file in folder ----------
+[INFO ] [2021-11-24 00:26:55,700] ---------- END delete file in folder ----------
+[INFO ] [2021-11-24 00:26:55,721] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-24 00:27:12,563] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-24 00:27:14,743] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-24 00:27:15,226] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-24 00:27:15,527] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-24 00:27:15,741] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-24 00:27:16,137] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-24 00:27:16,487] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-24 00:27:16,846] User_01_Register - Step 08: Enter Email Adress afc8945@mail.net
+[INFO ] [2021-11-24 00:27:16,976] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-24 00:27:17,149] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-24 00:27:17,288] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-24 00:27:17,415] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-24 00:27:19,469] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-24 00:27:19,802]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-11-24 00:27:19,819] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-24 00:27:26,048] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-24 00:27:27,753] User_01_Register - Step 02: Enter Email for login with value:afc8945@mail.net
+[INFO ] [2021-11-24 00:27:28,124] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-24 00:27:28,301] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-24 00:27:30,441] Post-Condition: Close browser
+[INFO ] [2021-11-24 00:31:56,045] ---------- START delete file in folder ----------
+[INFO ] [2021-11-24 00:31:56,047] ---------- END delete file in folder ----------
+[INFO ] [2021-11-24 00:31:56,079] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-24 00:32:13,989] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-24 00:32:16,458] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-24 00:32:17,056] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-24 00:32:17,489] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-24 00:32:17,660] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-24 00:32:18,212] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-24 00:32:18,584] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-24 00:32:18,990] User_01_Register - Step 08: Enter Email Adress afc4174@mail.net
+[INFO ] [2021-11-24 00:32:19,190] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-24 00:32:19,405] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-24 00:32:19,620] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-24 00:32:19,817] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-24 00:32:21,869] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-24 00:32:22,267]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-11-24 00:32:22,281] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-24 00:32:28,211] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-24 00:32:30,105] User_01_Register - Step 02: Enter Email for login with value:afc4174@mail.net
+[INFO ] [2021-11-24 00:32:30,542] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-24 00:32:30,716] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-24 00:32:32,861] Post-Condition: Close browser
+[INFO ] [2021-11-24 17:35:58,251] ---------- START delete file in folder ----------
+[INFO ] [2021-11-24 17:35:58,254] ---------- END delete file in folder ----------
+[INFO ] [2021-11-24 17:35:58,282] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-24 17:36:21,873] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-24 17:36:23,010] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-24 17:36:23,653] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-24 17:36:23,831] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-24 17:36:23,959] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-24 17:36:24,333] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-24 17:36:24,650] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-24 17:36:24,972] User_01_Register - Step 08: Enter Email Adress afc9689@mail.net
+[INFO ] [2021-11-24 17:36:25,087] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-24 17:36:25,214] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-24 17:36:25,339] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-24 17:36:25,474] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-24 17:36:27,972] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-24 17:36:28,180]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-11-24 17:36:28,192] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-24 17:36:34,379] User_01_Register - Step 01: Click to Login link
+[INFO ] [2021-11-24 17:36:36,116] User_01_Register - Step 02: Enter Email for login with value:afc9689@mail.net
+[INFO ] [2021-11-24 17:36:36,467] User_01_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-24 17:36:36,686] User_01_Register - Step 04: Click to Login link
+[INFO ] [2021-11-24 17:36:37,924] Post-Condition: Close browser
+[INFO ] [2021-11-24 17:44:21,655] ---------- START delete file in folder ----------
+[INFO ] [2021-11-24 17:44:21,657] ---------- END delete file in folder ----------
+[INFO ] [2021-11-24 17:44:21,680] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-24 17:44:38,395] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-24 17:44:40,661] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-24 17:44:41,287] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-24 17:44:41,770] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-24 17:44:41,941] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-24 17:44:42,372] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-24 17:44:42,845] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-24 17:44:43,234] User_01_Register - Step 08: Enter Email Adress afc6429@mail.net
+[INFO ] [2021-11-24 17:44:43,379] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-24 17:44:43,529] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-24 17:44:43,688] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-24 17:44:43,847] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-24 17:44:46,424] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-24 17:44:46,672]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-24 17:44:46,704] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-24 17:44:51,791] User_02_Register - Step 01: Click to Login link
+[INFO ] [2021-11-24 17:44:52,990] User_02_Register - Step 02: Enter Email for login with value:afc6429@mail.net
+[INFO ] [2021-11-24 17:44:53,401] User_02_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-24 17:44:53,707] User_02_Register - Step 04: Click to Login link
+[INFO ] [2021-11-24 17:44:54,077] Post-Condition: Close browser
+[INFO ] [2021-11-24 17:47:23,771] ---------- START delete file in folder ----------
+[INFO ] [2021-11-24 17:47:23,773] ---------- END delete file in folder ----------
+[INFO ] [2021-11-24 17:47:23,797] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-24 17:47:40,724] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-24 17:47:43,145] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-24 17:47:43,702] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-24 17:47:44,123] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-24 17:47:44,285] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-24 17:47:44,707] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-24 17:47:45,106] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-24 17:47:45,536] User_01_Register - Step 08: Enter Email Adress afc3309@mail.net
+[INFO ] [2021-11-24 17:47:45,796] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-24 17:47:46,030] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-24 17:47:46,219] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-24 17:47:46,413] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-24 17:47:49,120] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-24 17:47:49,388]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-24 17:47:49,397] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-24 17:47:55,470] User_02_Register - Step 01: Click to Login link
+[INFO ] [2021-11-24 17:47:57,096] User_02_Register - Step 02: Enter Email for login with value:afc3309@mail.net
+[INFO ] [2021-11-24 17:47:57,486] User_02_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-24 17:47:57,877] User_02_Register - Step 04: Click to Login link
+[INFO ] [2021-11-24 17:47:58,284] Post-Condition: Close browser
+[INFO ] [2021-11-24 20:15:13,914] ---------- START delete file in folder ----------
+[INFO ] [2021-11-24 20:15:13,918] ---------- END delete file in folder ----------
+[INFO ] [2021-11-24 20:15:13,945] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-24 20:15:34,071] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-24 20:15:36,401] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-24 20:15:36,910] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-24 20:15:37,140] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-24 20:15:37,281] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-24 20:15:37,689] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-24 20:15:38,071] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-24 20:15:38,449] User_01_Register - Step 08: Enter Email Adress afc6138@mail.net
+[INFO ] [2021-11-24 20:15:38,592] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-24 20:15:38,737] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-24 20:15:38,881] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-24 20:15:39,026] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-24 20:15:41,538] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-24 20:15:41,807]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-11-24 20:15:41,817] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-24 20:15:46,670] User_02_Register - Step 01: Click to Login link
+[INFO ] [2021-11-24 20:15:48,533] User_02_Register - Step 02: Enter Email for login with value:afc6138@mail.net
+[INFO ] [2021-11-24 20:15:48,897] User_02_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-24 20:15:49,087] User_02_Register - Step 04: Click to Login link
+[INFO ] [2021-11-24 20:15:49,489] Post-Condition: Close browser
+[INFO ] [2021-11-24 20:23:47,947] ---------- START delete file in folder ----------
+[INFO ] [2021-11-24 20:23:47,949] ---------- END delete file in folder ----------
+[INFO ] [2021-11-24 20:23:47,972] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-24 20:24:01,332] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-24 20:24:03,490] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-24 20:24:04,028] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-24 20:24:04,167] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-24 20:24:04,270] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-24 20:24:04,623] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-24 20:24:05,098] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-24 20:24:05,526] User_01_Register - Step 08: Enter Email Adress afc7394@mail.net
+[INFO ] [2021-11-24 20:24:05,771] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-24 20:24:05,950] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-24 20:24:06,202] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-24 20:24:06,370] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-24 20:24:08,551] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-24 20:24:08,830]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-11-24 20:24:08,841] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-24 20:24:16,746] User_02_Register - Step 01: Click to Login link
+[INFO ] [2021-11-24 20:24:17,510] User_02_Register - Step 02: Enter Email for login with value:afc7394@mail.net
+[INFO ] [2021-11-24 20:24:17,828] User_02_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-24 20:24:18,008] User_02_Register - Step 04: Click to Login link
+[INFO ] [2021-11-24 20:24:18,380] Post-Condition: Close browser
+[INFO ] [2021-11-24 20:36:40,121] ---------- START delete file in folder ----------
+[INFO ] [2021-11-24 20:36:40,125] ---------- END delete file in folder ----------
+[INFO ] [2021-11-24 20:36:40,151] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-24 20:36:54,929] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-24 20:36:57,168] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-24 20:36:57,713] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-24 20:36:57,847] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-24 20:36:57,985] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-24 20:36:58,382] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-24 20:36:58,696] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-24 20:36:59,020] User_01_Register - Step 08: Enter Email Adress afc5740@mail.net
+[INFO ] [2021-11-24 20:36:59,123] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-24 20:36:59,247] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-24 20:36:59,367] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-24 20:36:59,482] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-24 20:37:02,417] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-24 20:37:02,795]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-11-24 20:37:02,807] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-24 20:37:09,079] User_02_Register - Step 01: Click to Login link
+[INFO ] [2021-11-24 20:37:10,825] User_02_Register - Step 02: Enter Email for login with value:afc5740@mail.net
+[INFO ] [2021-11-24 20:37:11,107] User_02_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-24 20:37:11,312] User_02_Register - Step 04: Click to Login link
+[INFO ] [2021-11-24 20:37:11,643] Post-Condition: Close browser
+[INFO ] [2021-11-25 18:16:54,548] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 18:16:54,558] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 18:16:54,588] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 18:17:23,467] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 18:17:25,627] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 18:17:26,257] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 18:17:26,519] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 18:17:26,701] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 18:17:27,090] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 18:17:27,423] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 18:17:27,804] User_01_Register - Step 08: Enter Email Adress afc7740@mail.net
+[INFO ] [2021-11-25 18:17:27,925] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 18:17:28,173] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 18:17:28,427] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 18:17:28,558] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 18:17:31,255] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-25 18:17:31,382]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-11-25 18:17:31,391] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-25 18:17:37,287] User_02_Register - Step 01: Click to Login link
+[INFO ] [2021-11-25 18:17:38,686] User_02_Register - Step 02: Enter Email for login with value:afc7740@mail.net
+[INFO ] [2021-11-25 18:17:38,891] User_02_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-25 18:17:39,014] User_02_Register - Step 04: Click to Login link
+[INFO ] [2021-11-25 18:17:39,342] Post-Condition: Close browser
+[INFO ] [2021-11-25 20:31:47,194] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 20:31:47,197] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 20:31:47,228] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 20:32:07,734] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 20:32:11,282] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 20:32:11,741] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 20:32:11,966] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 20:32:12,157] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 20:32:12,615] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 20:32:12,956] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 20:32:13,490] User_01_Register - Step 08: Enter Email Adress afc8241@mail.net
+[INFO ] [2021-11-25 20:32:13,710] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 20:32:14,084] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 20:32:14,327] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 20:32:14,526] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 20:32:17,453] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-25 20:32:17,727]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-11-25 20:32:18,745] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-25 20:32:26,013] User_02_Register - Step 01: Click to Login link
+[INFO ] [2021-11-25 20:32:27,594] User_02_Register - Step 02: Enter Email for login with value:afc8241@mail.net
+[INFO ] [2021-11-25 20:32:27,899] User_02_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-25 20:32:28,121] User_02_Register - Step 04: Click to Login link
+[INFO ] [2021-11-25 20:32:28,548] Post-Condition: Close browser
+[INFO ] [2021-11-25 20:36:09,766] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 20:36:09,768] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 20:36:09,791] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 20:36:23,942] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 20:36:25,884] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 20:36:26,399] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 20:36:26,525] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 20:36:26,674] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 20:36:27,041] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 20:36:27,398] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 20:36:27,869] User_01_Register - Step 08: Enter Email Adress afc5640@mail.net
+[INFO ] [2021-11-25 20:36:28,129] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 20:36:28,351] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 20:36:28,579] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 20:36:28,809] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 20:36:31,651] User_01_Register - Step 13: Verify Register Message is displayed successfully
+[INFO ] [2021-11-25 20:36:34,801]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-11-25 20:36:34,809] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-25 20:36:42,705] User_02_Register - Step 01: Click to Login link
+[INFO ] [2021-11-25 20:36:44,373] User_02_Register - Step 02: Enter Email for login with value:afc5640@mail.net
+[INFO ] [2021-11-25 20:36:44,732] User_02_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-25 20:36:44,980] User_02_Register - Step 04: Click to Login link
+[INFO ] [2021-11-25 20:36:45,368] Post-Condition: Close browser
+[INFO ] [2021-11-25 20:50:07,674] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 20:50:07,676] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 20:50:07,699] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 20:50:23,710] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 20:50:26,130] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 20:50:26,921] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 20:50:27,108] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 20:50:27,265] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 20:50:27,672] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 20:50:28,032] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 20:50:28,434] User_01_Register - Step 08: Enter Email Adress afc4104@mail.net
+[INFO ] [2021-11-25 20:50:28,574] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 20:50:28,729] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 20:50:28,876] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 20:50:29,033] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 20:50:31,988] User_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2021-11-25 20:50:32,302]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-11-25 20:50:35,320] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-25 20:50:42,262] User_02_Register - Step 01: Click to Login link
+[INFO ] [2021-11-25 20:50:43,882] User_02_Register - Step 02: Enter Email for login with value:afc4104@mail.net
+[INFO ] [2021-11-25 20:50:44,196] User_02_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-25 20:50:44,385] User_02_Register - Step 04: Click to Login link
+[INFO ] [2021-11-25 20:50:44,717] Post-Condition: Close browser
+[INFO ] [2021-11-25 21:00:29,362] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 21:00:29,366] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 21:00:29,388] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 21:00:43,340] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 21:00:45,403] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 21:00:45,817] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 21:00:46,037] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 21:00:46,134] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 21:00:46,489] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 21:00:46,791] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 21:00:47,287] User_01_Register - Step 08: Enter Email Adress afc8040@mail.net
+[INFO ] [2021-11-25 21:00:47,516] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 21:00:47,854] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 21:00:48,061] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 21:00:48,249] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 21:00:50,479] User_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2021-11-25 21:00:51,346] User_02_Register - Step 01: Click to Login link
+[INFO ] [2021-11-25 21:01:32,305] Post-Condition: Close browser
+[INFO ] [2021-11-25 21:04:40,950] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 21:04:40,954] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 21:04:40,974] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 21:04:55,209] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 21:04:57,457] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 21:04:57,978] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 21:04:58,361] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 21:04:58,525] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 21:04:58,992] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 21:04:59,449] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 21:04:59,809] User_01_Register - Step 08: Enter Email Adress afc9334@mail.net
+[INFO ] [2021-11-25 21:04:59,940] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 21:05:00,093] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 21:05:00,244] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 21:05:00,387] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 21:05:03,189] User_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2021-11-25 21:05:03,925] User_02_Register - Step 01: Click to Login link
+[INFO ] [2021-11-25 21:05:44,962] Post-Condition: Close browser
+[INFO ] [2021-11-25 21:08:39,409] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 21:08:39,413] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 21:08:39,437] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 21:08:55,467] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 21:08:57,690] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 21:08:58,212] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 21:08:58,600] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 21:08:58,761] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 21:08:59,171] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 21:08:59,547] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 21:08:59,899] User_01_Register - Step 08: Enter Email Adress afc7810@mail.net
+[INFO ] [2021-11-25 21:09:00,026] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 21:09:00,179] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 21:09:00,318] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 21:09:00,456] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 21:09:03,246] User_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2021-11-25 21:09:04,044] Post-Condition: Close browser
+[INFO ] [2021-11-25 21:09:30,575] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 21:09:30,578] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 21:09:30,600] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 21:09:45,387] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 21:09:47,795] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 21:09:48,512] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 21:09:48,631] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 21:09:48,790] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 21:09:49,143] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 21:09:49,469] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 21:09:49,813] User_01_Register - Step 08: Enter Email Adress afc2225@mail.net
+[INFO ] [2021-11-25 21:09:49,921] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 21:09:50,037] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 21:09:50,158] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 21:09:50,272] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 21:09:53,497] User_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2021-11-25 21:09:53,800] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-25 21:09:59,157] Post-Condition: Close browser
+[INFO ] [2021-11-25 21:11:47,001] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 21:11:47,003] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 21:11:47,028] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 21:12:09,984] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 21:12:09,986] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 21:12:10,006] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 21:12:24,101] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 21:12:26,253] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 21:12:26,750] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 21:12:27,026] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 21:12:27,150] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 21:12:27,531] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 21:12:27,862] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 21:12:28,201] User_01_Register - Step 08: Enter Email Adress afc9468@mail.net
+[INFO ] [2021-11-25 21:12:28,311] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 21:12:28,441] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 21:12:28,568] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 21:12:28,685] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 21:12:30,830] User_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2021-11-25 21:12:31,714] Post-Condition: Close browser
+[INFO ] [2021-11-25 21:14:31,172] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 21:14:31,176] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 21:14:31,199] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 21:14:45,623] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 21:14:47,511] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 21:14:48,003] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 21:14:48,116] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 21:14:48,231] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 21:14:48,573] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 21:14:48,881] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 21:14:49,199] User_01_Register - Step 08: Enter Email Adress afc9620@mail.net
+[INFO ] [2021-11-25 21:14:49,318] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 21:14:49,429] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 21:14:49,551] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 21:14:49,658] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 21:14:52,264] User_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2021-11-25 21:14:52,797] Post-Condition: Close browser
+[INFO ] [2021-11-25 21:19:48,709] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 21:19:48,712] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 21:19:48,736] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 21:20:03,120] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 21:20:05,148] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 21:20:05,617] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 21:20:05,742] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 21:20:05,874] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 21:20:06,244] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 21:20:06,587] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 21:20:06,994] User_01_Register - Step 08: Enter Email Adress afc1501@mail.net
+[INFO ] [2021-11-25 21:20:07,188] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 21:20:07,399] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 21:20:07,565] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 21:20:07,726] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 21:20:09,834] User_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2021-11-25 21:20:10,734] Post-Condition: Close browser
+[INFO ] [2021-11-25 21:20:51,741] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 21:20:51,744] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 21:20:59,429] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 21:20:59,435] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 21:20:59,475] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 21:21:13,069] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 21:21:14,503] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 21:21:15,141] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 21:21:15,495] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 21:21:15,664] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 21:21:16,103] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 21:21:16,517] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 21:21:16,950] User_01_Register - Step 08: Enter Email Adress afc3099@mail.net
+[INFO ] [2021-11-25 21:21:17,159] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 21:21:17,318] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 21:21:17,474] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 21:21:17,631] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 21:21:19,051] User_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2021-11-25 21:21:19,315]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-11-25 21:21:19,327] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-25 21:21:24,991] Post-Condition: Close browser
+[INFO ] [2021-11-25 21:58:00,638] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 21:58:00,641] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 21:58:00,665] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 21:58:16,451] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 21:58:17,717] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 21:58:18,096] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 21:58:18,254] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 21:58:18,367] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 21:58:18,766] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 21:58:19,084] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 21:58:19,435] User_01_Register - Step 08: Enter Email Adress afc1627@mail.net
+[INFO ] [2021-11-25 21:58:19,532] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 21:58:19,643] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 21:58:19,821] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 21:58:19,930] User_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 21:58:20,978] User_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2021-11-25 21:58:21,135]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-11-25 21:58:24,141] User_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-25 21:58:30,325] Post-Condition: Close browser
+[INFO ] [2021-11-25 22:01:46,119] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 22:01:46,121] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 22:01:46,142] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 22:02:01,407] User_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 22:02:03,566] User_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 22:02:03,955] User_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 22:02:04,329] User_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 22:02:04,449] User_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 22:02:04,880] User_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 22:02:05,187] User_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 22:02:05,591] User_01_Register - Step 08: Enter Email Adress afc4863@mail.net
+[INFO ] [2021-11-25 22:02:05,770] User_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 22:02:05,955] User_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 22:02:06,196] User_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 22:02:06,410] User_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2021-11-25 22:02:47,510] Post-Condition: Close browser
+[INFO ] [2021-11-25 22:09:06,391] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 22:09:06,394] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 22:09:06,417] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 22:09:22,816] TC_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 22:09:25,530] TC_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 22:09:26,543] TC_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 22:09:26,753] TC_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 22:09:26,923] TC_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 22:09:27,369] TC_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 22:09:27,804] TC_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 22:09:28,216] TC_01_Register - Step 08: Enter Email Adress afc1895@mail.net
+[INFO ] [2021-11-25 22:09:28,407] TC_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 22:09:28,621] TC_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 22:09:28,835] TC_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 22:09:29,059] TC_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 22:09:30,394] TC_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2021-11-25 22:09:30,669]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-25 22:09:30,673] TC_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-25 22:09:36,767] TC_02_Register - Step 01: Click to Login link
+[INFO ] [2021-11-25 22:09:38,101] TC_02_Register - Step 02: Enter Email for login with value:afc1895@mail.net
+[INFO ] [2021-11-25 22:09:38,410] TC_02_Register - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-25 22:09:38,618] TC_02_Register - Step 04: Click to Login link
+[INFO ] [2021-11-25 22:26:58,585] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 22:26:58,589] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 22:26:58,614] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 22:27:16,719] TC_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 22:27:18,965] TC_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 22:27:19,446] TC_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 22:27:19,680] TC_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 22:27:19,848] TC_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 22:27:20,272] TC_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 22:27:20,595] TC_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 22:27:20,922] TC_01_Register - Step 08: Enter Email Adress afc1683@mail.net
+[INFO ] [2021-11-25 22:27:21,044] TC_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 22:27:21,259] TC_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 22:27:21,464] TC_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 22:27:21,675] TC_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 22:27:22,957] TC_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2021-11-25 22:27:23,165]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-25 22:27:23,170] TC_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-25 22:27:28,339] TC_02_Login - Step 01: Click to Login link
+[INFO ] [2021-11-25 22:27:29,953] TC_02_Login - Step 02: Enter Email for login with value:afc1683@mail.net
+[INFO ] [2021-11-25 22:27:30,295] TC_02_Login - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-25 22:27:30,565] TC_02_Login - Step 04: Click to Login link
+[INFO ] [2021-11-25 22:27:36,554] TC_02_Login - Step 05: Verify Login is successfuly
+[INFO ] [2021-11-25 22:27:36,785]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-25 22:27:36,794] Post-Condition: Close browser
+[INFO ] [2021-11-25 22:29:26,340] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 22:29:26,342] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 22:29:26,369] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 22:29:45,803] TC_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 22:29:48,117] TC_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 22:29:48,869] TC_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 22:29:49,107] TC_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 22:29:49,359] TC_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 22:29:49,885] TC_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 22:29:50,332] TC_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 22:29:50,739] TC_01_Register - Step 08: Enter Email Adress afc6587@mail.net
+[INFO ] [2021-11-25 22:29:50,866] TC_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 22:29:51,004] TC_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 22:29:51,217] TC_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 22:29:51,455] TC_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 22:29:54,161] TC_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2021-11-25 22:29:54,389]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-25 22:29:54,398] TC_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-25 22:30:00,329] TC_02_Login - Step 01: Click to Login link
+[INFO ] [2021-11-25 22:30:02,096] TC_02_Login - Step 02: Enter Email for login with value:afc6587@mail.net
+[INFO ] [2021-11-25 22:30:02,398] TC_02_Login - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-25 22:30:02,631] TC_02_Login - Step 04: Click to Login link
+[INFO ] [2021-11-25 22:30:05,974] TC_02_Login - Step 05: Verify Login is successfuly
+[INFO ] [2021-11-25 22:30:26,878] Post-Condition: Close browser
+[INFO ] [2021-11-25 22:35:11,444] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 22:35:11,447] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 22:35:11,474] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 22:35:26,973] TC_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 22:35:29,358] TC_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 22:35:29,946] TC_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 22:35:30,126] TC_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 22:35:30,333] TC_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 22:35:30,846] TC_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 22:35:31,277] TC_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 22:35:31,671] TC_01_Register - Step 08: Enter Email Adress afc2840@mail.net
+[INFO ] [2021-11-25 22:35:31,854] TC_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 22:35:31,981] TC_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 22:35:32,131] TC_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 22:35:32,267] TC_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 22:35:34,857] TC_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2021-11-25 22:35:35,045]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-25 22:35:35,051] TC_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-25 22:35:41,028] TC_02_Login - Step 01: Click to Login link
+[INFO ] [2021-11-25 22:35:42,032] TC_02_Login - Step 02: Enter Email for login with value:afc2840@mail.net
+[INFO ] [2021-11-25 22:35:42,333] TC_02_Login - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-25 22:35:42,633] TC_02_Login - Step 04: Click to Login link
+[INFO ] [2021-11-25 22:35:47,622] TC_02_Login - Step 05: Verify if Login is successful
+[INFO ] [2021-11-25 22:35:47,971]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-25 22:35:47,983] Post-Condition: Close browser
+[INFO ] [2021-11-25 22:36:39,030] ---------- START delete file in folder ----------
+[INFO ] [2021-11-25 22:36:39,033] ---------- END delete file in folder ----------
+[INFO ] [2021-11-25 22:36:39,055] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-25 22:36:54,171] TC_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-25 22:36:56,429] TC_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-25 22:36:57,096] TC_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-25 22:36:57,265] TC_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-25 22:36:57,491] TC_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-25 22:36:57,956] TC_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-25 22:36:58,484] TC_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-25 22:36:58,854] TC_01_Register - Step 08: Enter Email Adress afc5957@mail.net
+[INFO ] [2021-11-25 22:36:58,993] TC_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-25 22:36:59,136] TC_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-25 22:36:59,269] TC_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-25 22:36:59,461] TC_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-25 22:37:02,190] TC_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2021-11-25 22:37:02,391]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-25 22:37:02,405] TC_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-25 22:37:07,497] TC_02_Login - Step 01: Click to Login link
+[INFO ] [2021-11-25 22:37:09,204] TC_02_Login - Step 02: Enter Email for login with value:afc5957@mail.net
+[INFO ] [2021-11-25 22:37:09,631] TC_02_Login - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-25 22:37:09,891] TC_02_Login - Step 04: Click to Login link
+[INFO ] [2021-11-25 22:37:14,124] TC_02_Login - Step 05: Verify if Login is successful
+[INFO ] [2021-11-25 22:37:14,315]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-11-25 22:37:16,183] Post-Condition: Close browser
+[INFO ] [2021-11-26 11:22:59,037] ---------- START delete file in folder ----------
+[INFO ] [2021-11-26 11:22:59,043] ---------- END delete file in folder ----------
+[INFO ] [2021-11-26 11:22:59,076] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-11-26 11:23:33,183] TC_01_Register - Step 01: Click to Register link
+[INFO ] [2021-11-26 11:23:36,553] TC_01_Register - Step 02: Click to Male radio button
+[INFO ] [2021-11-26 11:23:37,236] TC_01_Register - Step 03: Enter First Name
+[INFO ] [2021-11-26 11:23:37,710] TC_01_Register - Step 04: Enter Last Name
+[INFO ] [2021-11-26 11:23:37,949] TC_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2021-11-26 11:23:38,516] TC_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2021-11-26 11:23:38,977] TC_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2021-11-26 11:23:39,400] TC_01_Register - Step 08: Enter Email Adress afc3850@mail.net
+[INFO ] [2021-11-26 11:23:39,589] TC_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2021-11-26 11:23:39,777] TC_01_Register - Step 10: Enter password123456
+[INFO ] [2021-11-26 11:23:39,982] TC_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2021-11-26 11:23:40,197] TC_01_Register - Step 12: Click to Register button
+[INFO ] [2021-11-26 11:23:43,016] TC_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2021-11-26 11:23:43,362]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-11-26 11:23:43,382] TC_01_Register - Step 14: Click to Logout link
+[INFO ] [2021-11-26 11:23:49,234] TC_02_Login - Step 01: Click to Login link
+[INFO ] [2021-11-26 11:23:50,499] TC_02_Login - Step 02: Enter Email for login with value:afc3850@mail.net
+[INFO ] [2021-11-26 11:23:51,094] TC_02_Login - Step 03: Enter Password for login with value:123456
+[INFO ] [2021-11-26 11:23:51,344] TC_02_Login - Step 04: Click to Login link
+[INFO ] [2021-11-26 11:23:56,933] TC_02_Login - Step 05: Verify if Login is successful
+[INFO ] [2021-11-26 11:23:57,004]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-11-26 11:23:58,704] Post-Condition: Close browser
+[INFO ] [2022-09-17 21:55:54,058] ---------- START delete file in folder ----------
+[INFO ] [2022-09-17 21:55:54,137] ---------- END delete file in folder ----------
+[INFO ] [2022-09-17 21:56:35,934] ---------- START delete file in folder ----------
+[INFO ] [2022-09-17 21:56:35,937] ---------- END delete file in folder ----------
+[INFO ] [2022-09-17 22:00:04,703] ---------- START delete file in folder ----------
+[INFO ] [2022-09-17 22:00:04,705] ---------- END delete file in folder ----------
+[INFO ] [2022-09-17 22:00:59,913] ---------- START delete file in folder ----------
+[INFO ] [2022-09-17 22:00:59,916] ---------- END delete file in folder ----------
+[INFO ] [2022-09-17 22:00:59,946] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-09-17 22:01:23,901] TC_01_Register - Step 01: Click to Register link
+[INFO ] [2022-09-17 22:01:26,156] TC_01_Register - Step 02: Click to Male radio button
+[INFO ] [2022-09-17 22:01:26,586] TC_01_Register - Step 03: Enter First Name
+[INFO ] [2022-09-17 22:01:26,809] TC_01_Register - Step 04: Enter Last Name
+[INFO ] [2022-09-17 22:01:27,005] TC_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2022-09-17 22:01:27,515] TC_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2022-09-17 22:01:27,882] TC_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2022-09-17 22:01:28,236] TC_01_Register - Step 08: Enter Email Adress afc7604@mail.net
+[INFO ] [2022-09-17 22:01:28,386] TC_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2022-09-17 22:01:28,552] TC_01_Register - Step 10: Enter password123456
+[INFO ] [2022-09-17 22:01:28,685] TC_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2022-09-17 22:01:29,001] TC_01_Register - Step 12: Click to Register button
+[INFO ] [2022-09-17 22:01:32,149] TC_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2022-09-17 22:01:32,270]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-17 22:01:32,274] TC_01_Register - Step 14: Click to Logout link
+[INFO ] [2022-09-17 22:01:36,366] TC_02_Login - Step 01: Click to Login link
+[INFO ] [2022-09-17 22:01:37,339] TC_02_Login - Step 02: Enter Email for login with value:afc7604@mail.net
+[INFO ] [2022-09-17 22:01:37,560] TC_02_Login - Step 03: Enter Password for login with value:123456
+[INFO ] [2022-09-17 22:01:37,915] TC_02_Login - Step 04: Click to Login link
+[INFO ] [2022-09-17 22:01:42,279] TC_02_Login - Step 05: Verify if Login is successful
+[INFO ] [2022-09-17 22:01:42,494]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-09-17 22:01:43,811] Post-Condition: Close browser
+[INFO ] [2022-10-18 22:45:16,409] ---------- START delete file in folder ----------
+[INFO ] [2022-10-18 22:45:16,412] ---------- END delete file in folder ----------
+[INFO ] [2022-10-18 22:45:16,475] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-18 22:51:38,565] ---------- START delete file in folder ----------
+[INFO ] [2022-10-18 22:51:38,566] ---------- END delete file in folder ----------
+[INFO ] [2022-10-18 22:51:53,672] ---------- START delete file in folder ----------
+[INFO ] [2022-10-18 22:51:53,674] ---------- END delete file in folder ----------
+[INFO ] [2022-10-18 22:51:53,694] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-18 23:15:33,005] ---------- START delete file in folder ----------
+[INFO ] [2022-10-18 23:15:33,006] ---------- END delete file in folder ----------
+[INFO ] [2022-10-19 19:44:57,451] ---------- START delete file in folder ----------
+[INFO ] [2022-10-19 19:44:57,453] ---------- END delete file in folder ----------
+[INFO ] [2022-10-19 19:44:57,477] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-19 19:48:53,135] ---------- START delete file in folder ----------
+[INFO ] [2022-10-19 19:48:53,137] ---------- END delete file in folder ----------
+[INFO ] [2022-10-19 19:48:53,160] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-19 19:48:59,470] TC_01_Register - Step 01: Click to Register link
+[INFO ] [2022-10-19 19:49:00,800] TC_01_Register - Step 02: Click to Male radio button
+[INFO ] [2022-10-19 19:49:00,949] TC_01_Register - Step 03: Enter First Name
+[INFO ] [2022-10-19 19:49:01,166] TC_01_Register - Step 04: Enter Last Name
+[INFO ] [2022-10-19 19:49:01,355] TC_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2022-10-19 19:49:01,515] TC_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2022-10-19 19:49:01,682] TC_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2022-10-19 19:49:01,920] TC_01_Register - Step 08: Enter Email Adress afc323@mail.net
+[INFO ] [2022-10-19 19:49:02,288] TC_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2022-10-19 19:49:02,611] TC_01_Register - Step 10: Enter password123456
+[INFO ] [2022-10-19 19:49:02,889] TC_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2022-10-19 19:49:03,099] TC_01_Register - Step 12: Click to Register button
+[INFO ] [2022-10-19 19:49:04,128] TC_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2022-10-19 19:49:04,204]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-19 19:49:04,206] TC_01_Register - Step 14: Click to Logout link
+[INFO ] [2022-10-19 19:49:08,123] TC_02_Login - Step 01: Click to Login link
+[INFO ] [2022-10-19 19:49:08,830] TC_02_Login - Step 02: Enter Email for login with value:afc323@mail.net
+[INFO ] [2022-10-19 19:49:09,060] TC_02_Login - Step 03: Enter Password for login with value:123456
+[INFO ] [2022-10-19 19:49:09,266] TC_02_Login - Step 04: Click to Login link
+[INFO ] [2022-10-19 19:49:13,079] TC_02_Login - Step 05: Verify if Login is successful
+[INFO ] [2022-10-19 19:49:13,170]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-19 19:49:13,903] Post-Condition: Close browser
+[INFO ] [2022-10-19 19:51:04,805] ---------- START delete file in folder ----------
+[INFO ] [2022-10-19 19:51:04,808] ---------- END delete file in folder ----------
+[INFO ] [2022-10-19 19:51:04,828] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-19 19:51:10,504] TC_01_Register - Step 01: Click to Register link
+[INFO ] [2022-10-19 19:51:11,311] TC_01_Register - Step 02: Click to Male radio button
+[INFO ] [2022-10-19 19:51:11,495] TC_01_Register - Step 03: Enter First Name
+[INFO ] [2022-10-19 19:51:11,700] TC_01_Register - Step 04: Enter Last Name
+[INFO ] [2022-10-19 19:51:11,887] TC_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2022-10-19 19:51:12,046] TC_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2022-10-19 19:51:12,194] TC_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2022-10-19 19:51:12,339] TC_01_Register - Step 08: Enter Email Adress afc5095@mail.net
+[INFO ] [2022-10-19 19:51:12,542] TC_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2022-10-19 19:51:12,741] TC_01_Register - Step 10: Enter password123456
+[INFO ] [2022-10-19 19:51:12,929] TC_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2022-10-19 19:51:13,150] TC_01_Register - Step 12: Click to Register button
+[INFO ] [2022-10-19 19:51:15,280] TC_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2022-10-19 19:51:15,350]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-19 19:51:15,352] TC_01_Register - Step 14: Click to Logout link
+[INFO ] [2022-10-19 19:51:19,238] TC_02_Login - Step 01: Click to Login link
+[INFO ] [2022-10-19 19:51:20,387] TC_02_Login - Step 02: Enter Email for login with value:afc5095@mail.net
+[INFO ] [2022-10-19 19:51:20,633] TC_02_Login - Step 03: Enter Password for login with value:123456
+[INFO ] [2022-10-19 19:51:20,880] TC_02_Login - Step 04: Click to Login link
+[INFO ] [2022-10-19 19:51:24,889] TC_02_Login - Step 05: Verify if Login is successful
+[INFO ] [2022-10-19 19:51:24,934]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-19 19:51:25,715] Post-Condition: Close browser
+[INFO ] [2022-10-19 20:33:36,169] ---------- START delete file in folder ----------
+[INFO ] [2022-10-19 20:33:36,170] ---------- END delete file in folder ----------
+[INFO ] [2022-10-19 20:33:36,193] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-19 20:33:36,306] ---------- START delete file in folder ----------
+[INFO ] [2022-10-19 20:33:36,314] ---------- END delete file in folder ----------
+[INFO ] [2022-10-19 20:33:36,371] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-19 21:48:29,611] ---------- START delete file in folder ----------
+[INFO ] [2022-10-19 21:48:29,613] ---------- END delete file in folder ----------
+[INFO ] [2022-10-19 21:48:29,627] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-19 21:48:36,492] TC_01_Register - Step 01: Click to Register link
+[INFO ] [2022-10-19 21:48:38,414] TC_01_Register - Step 02: Click to Male radio button
+[INFO ] [2022-10-19 21:48:38,571] TC_01_Register - Step 03: Enter First Name
+[INFO ] [2022-10-19 21:48:38,787] TC_01_Register - Step 04: Enter Last Name
+[INFO ] [2022-10-19 21:48:38,981] TC_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2022-10-19 21:48:39,161] TC_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2022-10-19 21:48:39,314] TC_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2022-10-19 21:48:39,464] TC_01_Register - Step 08: Enter Email Adress afc8673@mail.net
+[INFO ] [2022-10-19 21:48:39,697] TC_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2022-10-19 21:48:40,297] TC_01_Register - Step 10: Enter password123456
+[INFO ] [2022-10-19 21:48:40,514] TC_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2022-10-19 21:48:40,731] TC_01_Register - Step 12: Click to Register button
+[INFO ] [2022-10-19 21:48:42,439] TC_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2022-10-19 21:48:42,516]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-19 21:48:42,519] TC_01_Register - Step 14: Click to Logout link
+[INFO ] [2022-10-19 21:48:46,441] TC_02_Login - Step 01: Click to Login link
+[INFO ] [2022-10-19 21:48:47,806] TC_02_Login - Step 02: Enter Email for login with value:afc8673@mail.net
+[INFO ] [2022-10-19 21:48:48,009] TC_02_Login - Step 03: Enter Password for login with value:123456
+[INFO ] [2022-10-19 21:48:48,193] TC_02_Login - Step 04: Click to Login link
+[INFO ] [2022-10-19 21:48:52,340] TC_02_Login - Step 05: Verify if Login is successful
+[INFO ] [2022-10-19 21:48:52,424]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-19 21:48:53,241] Post-Condition: Close browser
+[INFO ] [2022-10-19 21:56:07,202] ---------- START delete file in folder ----------
+[INFO ] [2022-10-19 21:56:07,204] ---------- END delete file in folder ----------
+[INFO ] [2022-10-19 21:56:07,221] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-19 21:56:13,253] TC_01_Register - Step 01: Click to Register link
+[INFO ] [2022-10-19 21:56:15,123] TC_01_Register - Step 02: Click to Male radio button
+[INFO ] [2022-10-19 21:56:15,286] TC_01_Register - Step 03: Enter First Name
+[INFO ] [2022-10-19 21:56:15,495] TC_01_Register - Step 04: Enter Last Name
+[INFO ] [2022-10-19 21:56:15,693] TC_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2022-10-19 21:56:15,855] TC_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2022-10-19 21:56:16,016] TC_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2022-10-19 21:56:16,217] TC_01_Register - Step 08: Enter Email Adress afc5357@mail.net
+[INFO ] [2022-10-19 21:56:16,427] TC_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2022-10-19 21:56:16,652] TC_01_Register - Step 10: Enter password123456
+[INFO ] [2022-10-19 21:56:16,848] TC_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2022-10-19 21:56:17,060] TC_01_Register - Step 12: Click to Register button
+[INFO ] [2022-10-19 21:56:18,049] TC_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2022-10-19 21:56:18,122]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-19 21:56:18,124] TC_01_Register - Step 14: Click to Logout link
+[INFO ] [2022-10-19 21:56:22,034] TC_02_Login - Step 01: Click to Login link
+[INFO ] [2022-10-19 21:56:22,718] TC_02_Login - Step 02: Enter Email for login with value:afc5357@mail.net
+[INFO ] [2022-10-19 21:56:22,928] TC_02_Login - Step 03: Enter Password for login with value:123456
+[INFO ] [2022-10-19 21:56:23,127] TC_02_Login - Step 04: Click to Login link
+[INFO ] [2022-10-19 21:56:27,095] TC_02_Login - Step 05: Verify if Login is successful
+[INFO ] [2022-10-19 21:56:27,164]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-19 21:56:27,870] Post-Condition: Close browser
+[INFO ] [2022-10-19 22:37:07,335] ---------- START delete file in folder ----------
+[INFO ] [2022-10-19 22:37:07,337] ---------- END delete file in folder ----------
+[INFO ] [2022-10-19 22:37:07,357] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-19 22:37:13,330] TC_01_Register - Step 01: Click to Register link
+[INFO ] [2022-10-19 22:37:14,797] TC_01_Register - Step 02: Click to Male radio button
+[INFO ] [2022-10-19 22:37:14,942] TC_01_Register - Step 03: Enter First Name
+[INFO ] [2022-10-19 22:37:15,149] TC_01_Register - Step 04: Enter Last Name
+[INFO ] [2022-10-19 22:37:15,340] TC_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2022-10-19 22:37:15,507] TC_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2022-10-19 22:37:15,648] TC_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2022-10-19 22:37:15,789] TC_01_Register - Step 08: Enter Email Adress afc3137@mail.net
+[INFO ] [2022-10-19 22:37:15,997] TC_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2022-10-19 22:37:16,199] TC_01_Register - Step 10: Enter password123456
+[INFO ] [2022-10-19 22:37:16,411] TC_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2022-10-19 22:37:16,598] TC_01_Register - Step 12: Click to Register button
+[INFO ] [2022-10-19 22:37:17,617] TC_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2022-10-19 22:37:17,693]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-19 22:37:17,695] TC_01_Register - Step 14: Click to Logout link
+[INFO ] [2022-10-19 22:37:21,685] TC_02_Login - Step 01: Click to Login link
+[INFO ] [2022-10-19 22:37:22,407] TC_02_Login - Step 02: Enter Email for login with value:afc3137@mail.net
+[INFO ] [2022-10-19 22:37:22,622] TC_02_Login - Step 03: Enter Password for login with value:123456
+[INFO ] [2022-10-19 22:37:22,816] TC_02_Login - Step 04: Click to Login link
+[INFO ] [2022-10-19 22:37:26,669] TC_02_Login - Step 05: Verify if Login is successful
+[INFO ] [2022-10-19 22:37:26,727]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-19 22:37:26,730] Post-Condition: Close browser
+[INFO ] [2022-10-22 18:07:32,247] ---------- START delete file in folder ----------
+[INFO ] [2022-10-22 18:07:32,248] ---------- END delete file in folder ----------
+[INFO ] [2022-10-22 18:07:32,265] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-22 18:07:40,940] TC_01_Register - Step 01: Click to Register link
+[INFO ] [2022-10-22 18:07:43,285] TC_01_Register - Step 02: Click to Male radio button
+[INFO ] [2022-10-22 18:07:43,454] TC_01_Register - Step 03: Enter First Name
+[INFO ] [2022-10-22 18:07:43,698] TC_01_Register - Step 04: Enter Last Name
+[INFO ] [2022-10-22 18:07:43,894] TC_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2022-10-22 18:07:44,070] TC_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2022-10-22 18:07:44,224] TC_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2022-10-22 18:07:44,373] TC_01_Register - Step 08: Enter Email Adress afc2587@mail.net
+[INFO ] [2022-10-22 18:07:44,609] TC_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2022-10-22 18:07:44,826] TC_01_Register - Step 10: Enter password123456
+[INFO ] [2022-10-22 18:07:45,037] TC_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2022-10-22 18:07:45,238] TC_01_Register - Step 12: Click to Register button
+[INFO ] [2022-10-22 18:07:46,464] TC_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2022-10-22 18:07:46,548]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-22 18:07:46,550] TC_01_Register - Step 14: Click to Logout link
+[INFO ] [2022-10-22 18:07:50,502] Post-Condition: Close browser
+[INFO ] [2022-10-22 18:30:53,029] ---------- START delete file in folder ----------
+[INFO ] [2022-10-22 18:30:53,031] ---------- END delete file in folder ----------
+[INFO ] [2022-10-22 18:31:29,636] ---------- START delete file in folder ----------
+[INFO ] [2022-10-22 18:31:29,637] ---------- END delete file in folder ----------
+[INFO ] [2022-10-22 18:31:29,657] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-22 18:31:37,470] TC_01_Register - Step 01: Click to Register link
+[INFO ] [2022-10-22 18:31:38,360] TC_01_Register - Step 02: Click to Male radio button
+[INFO ] [2022-10-22 18:31:38,537] TC_01_Register - Step 03: Enter First Name
+[INFO ] [2022-10-22 18:31:38,772] TC_01_Register - Step 04: Enter Last Name
+[INFO ] [2022-10-22 18:31:39,007] TC_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2022-10-22 18:31:39,218] TC_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2022-10-22 18:31:39,420] TC_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2022-10-22 18:31:39,655] TC_01_Register - Step 08: Enter Email Adress afc3375@mail.net
+[INFO ] [2022-10-22 18:31:39,972] TC_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2022-10-22 18:31:40,263] TC_01_Register - Step 10: Enter password123456
+[INFO ] [2022-10-22 18:31:40,497] TC_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2022-10-22 18:31:40,696] TC_01_Register - Step 12: Click to Register button
+[INFO ] [2022-10-22 18:31:41,691] TC_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2022-10-22 18:31:41,787]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-22 18:31:41,790] TC_01_Register - Step 14: Click to Logout link
+[INFO ] [2022-10-22 18:31:45,910] Post-Condition: Close browser
+[INFO ] [2022-10-22 18:44:11,060] ---------- START delete file in folder ----------
+[INFO ] [2022-10-22 18:44:11,061] ---------- END delete file in folder ----------
+[INFO ] [2022-10-22 18:44:11,081] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-22 18:44:18,708] In thong tin cua Home PagepageObjects.nopCommerce.HomePageObject@a5bd950
+[INFO ] [2022-10-22 18:44:18,725] TC_01_Register - Step 01: Click to Register link
+[INFO ] [2022-10-22 18:44:20,224] TC_01_Register - Step 02: Click to Male radio button
+[INFO ] [2022-10-22 18:44:25,414] TC_01_Register - Step 03: Enter First Name
+[INFO ] [2022-10-22 18:44:25,695] TC_01_Register - Step 04: Enter Last Name
+[INFO ] [2022-10-22 18:44:25,949] TC_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2022-10-22 18:44:26,148] TC_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2022-10-22 18:44:26,326] TC_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2022-10-22 18:44:26,516] TC_01_Register - Step 08: Enter Email Adress afc6167@mail.net
+[INFO ] [2022-10-22 18:44:26,782] TC_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2022-10-22 18:44:27,027] TC_01_Register - Step 10: Enter password123456
+[INFO ] [2022-10-22 18:44:27,284] TC_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2022-10-22 18:44:27,522] TC_01_Register - Step 12: Click to Register button
+[INFO ] [2022-10-22 18:44:28,632] TC_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2022-10-22 18:44:28,704]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-22 18:44:28,706] TC_01_Register - Step 14: Click to Logout link
+[INFO ] [2022-10-22 18:44:32,617] Post-Condition: Close browser
+[INFO ] [2022-10-22 18:45:51,966] ---------- START delete file in folder ----------
+[INFO ] [2022-10-22 18:45:51,968] ---------- END delete file in folder ----------
+[INFO ] [2022-10-22 18:45:51,992] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-22 18:45:59,012] In thong tin cua Home PagepageObjects.nopCommerce.HomePageObject@a5bd950
+[INFO ] [2022-10-22 18:45:59,026] TC_01_Register - Step 01: Click to Register link
+[INFO ] [2022-10-22 18:46:00,353] TC_01_Register - Step 02: Click to Male radio button
+[INFO ] [2022-10-22 18:46:00,516] TC_01_Register - Step 03: Enter First Name
+[INFO ] [2022-10-22 18:46:00,737] TC_01_Register - Step 04: Enter Last Name
+[INFO ] [2022-10-22 18:46:00,943] TC_01_Register - Step 05: Select Date for Dropdown
+[INFO ] [2022-10-22 18:46:01,109] TC_01_Register - Step 06: Select Month for Dropdown
+[INFO ] [2022-10-22 18:46:01,258] TC_01_Register - Step 07: Select Year for Dropdown
+[INFO ] [2022-10-22 18:46:01,409] TC_01_Register - Step 08: Enter Email Adress afc1097@mail.net
+[INFO ] [2022-10-22 18:46:01,641] TC_01_Register - Step 09: Enter Company NameAutomation FC
+[INFO ] [2022-10-22 18:46:01,855] TC_01_Register - Step 10: Enter password123456
+[INFO ] [2022-10-22 18:46:02,050] TC_01_Register - Step 11: Enter Confirm password123456
+[INFO ] [2022-10-22 18:46:02,269] TC_01_Register - Step 12: Click to Register button
+[INFO ] [2022-10-22 18:46:03,218] TC_01_Register - Step 13: Verify Register Message is displayed
+[INFO ] [2022-10-22 18:46:03,303]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-22 18:46:03,305] TC_01_Register - Step 14: Click to Logout link
+[INFO ] [2022-10-22 18:46:07,168] Post-Condition: Close browser
+[INFO ] [2022-10-22 18:47:17,538] ---------- START delete file in folder ----------
+[INFO ] [2022-10-22 18:47:17,540] ---------- END delete file in folder ----------
+[INFO ] [2022-10-22 18:47:17,560] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-22 18:47:23,882] In thong tin cua Home PagepageObjects.nopCommerce.HomePageObject@a5bd950
+[INFO ] [2022-10-22 18:47:23,899] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-22 18:47:23,899] In thong tin cua Home Page
+[INFO ] [2022-10-22 18:47:25,382] In thong tin cua Home PagepageObjects.nopCommerce.RegisterPageObject@2b95e48b
+[INFO ] [2022-10-22 18:47:25,393] Post-Condition: Close browser
+[INFO ] [2022-10-22 18:49:38,949] ---------- START delete file in folder ----------
+[INFO ] [2022-10-22 18:49:38,950] ---------- END delete file in folder ----------
+[INFO ] [2022-10-22 18:49:38,966] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-22 18:49:45,143] In thong tin cua Home Page: pageObjects.nopCommerce.HomePageObject@a5bd950
+[INFO ] [2022-10-22 18:49:45,156] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-22 18:49:45,157] In thong tin cua Home Page
+[INFO ] [2022-10-22 18:49:46,605] In thong tin cua Home Page: pageObjects.nopCommerce.RegisterPageObject@2b95e48b
+[INFO ] [2022-10-22 18:49:46,610] Post-Condition: Close browser
+[INFO ] [2022-10-22 18:50:23,423] ---------- START delete file in folder ----------
+[INFO ] [2022-10-22 18:50:23,424] ---------- END delete file in folder ----------
+[INFO ] [2022-10-22 18:50:23,439] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-22 18:50:29,625] In thong tin cua Home Page: pageObjects.nopCommerce.HomePageObject@a5bd950
+[INFO ] [2022-10-22 18:50:29,643] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-22 18:50:29,643] In thong tin cua Home Page
+[INFO ] [2022-10-22 18:50:31,108] In thong tin cua Home Page: pageObjects.nopCommerce.RegisterPageObject@2b95e48b
+[INFO ] [2022-10-22 18:50:31,115] Post-Condition: Close browser
+[INFO ] [2022-10-22 21:50:28,325] ---------- START delete file in folder ----------
+[INFO ] [2022-10-22 21:50:28,327] ---------- END delete file in folder ----------
+[INFO ] [2022-10-22 21:50:28,341] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-22 21:50:37,164] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@2b5825fa
+[INFO ] [2022-10-22 21:50:37,191] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-22 21:50:37,192] In thong tin cua Home Page
+[INFO ] [2022-10-22 21:50:38,762] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@7894f09b
+[INFO ] [2022-10-22 21:50:38,768] Post-Condition: Close browser
+[INFO ] [2022-10-22 21:56:07,285] ---------- START delete file in folder ----------
+[INFO ] [2022-10-22 21:56:07,286] ---------- END delete file in folder ----------
+[INFO ] [2022-10-22 21:56:07,303] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-22 21:56:13,056] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-22 21:56:13,077] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-22 21:56:13,078] In thong tin cua Home Page
+[INFO ] [2022-10-22 21:56:14,721] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-22 21:56:19,730] Post-Condition: Close browser
+[INFO ] [2022-10-22 21:57:16,853] ---------- START delete file in folder ----------
+[INFO ] [2022-10-22 21:57:16,854] ---------- END delete file in folder ----------
+[INFO ] [2022-10-22 21:57:34,933] ---------- START delete file in folder ----------
+[INFO ] [2022-10-22 21:57:34,935] ---------- END delete file in folder ----------
+[INFO ] [2022-10-22 21:57:34,961] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-22 21:57:41,586] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-22 21:57:41,617] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-22 21:57:41,617] In thong tin cua Home Page
+[INFO ] [2022-10-22 21:57:43,153] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-22 21:57:48,161] Post-Condition: Close browser
+[INFO ] [2022-10-22 22:02:31,174] ---------- START delete file in folder ----------
+[INFO ] [2022-10-22 22:02:31,176] ---------- END delete file in folder ----------
+[INFO ] [2022-10-22 22:02:31,194] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-22 22:02:37,749] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-22 22:02:37,771] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-22 22:02:37,771] In thong tin cua Home Page
+[INFO ] [2022-10-22 22:02:39,702] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-22 22:03:09,717] Post-Condition: Close browser
+[INFO ] [2022-10-23 11:51:52,419] ---------- START delete file in folder ----------
+[INFO ] [2022-10-23 11:51:52,422] ---------- END delete file in folder ----------
+[INFO ] [2022-10-23 11:51:52,448] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-23 11:52:01,886] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@2b5825fa
+[INFO ] [2022-10-23 11:52:01,930] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-23 11:52:01,931] In thong tin cua Home Page
+[INFO ] [2022-10-23 11:52:03,043] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@7894f09b
+[INFO ] [2022-10-23 11:52:33,050] Post-Condition: Close browser
+[INFO ] [2022-10-23 11:52:40,593] ---------- START delete file in folder ----------
+[INFO ] [2022-10-23 11:52:40,595] ---------- END delete file in folder ----------
+[INFO ] [2022-10-23 11:52:40,615] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-23 11:52:47,070] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-23 11:52:47,099] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-23 11:52:47,099] In thong tin cua Home Page
+[INFO ] [2022-10-23 11:53:18,722] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-23 11:53:48,730] Post-Condition: Close browser
+[INFO ] [2022-10-23 13:18:13,960] ---------- START delete file in folder ----------
+[INFO ] [2022-10-23 13:18:13,962] ---------- END delete file in folder ----------
+[INFO ] [2022-10-23 13:18:13,980] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-23 13:18:20,149] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (2e9d5cf47efb386e6872aaf2f7818b56)
+[INFO ] [2022-10-23 13:18:20,157] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@2b5825fa
+[INFO ] [2022-10-23 13:18:20,179] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-23 13:18:31,861] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@7894f09b
+[INFO ] [2022-10-23 13:18:41,873] Post-Condition: Close browser
+[INFO ] [2022-10-23 19:53:02,169] ---------- START delete file in folder ----------
+[INFO ] [2022-10-23 19:53:02,170] ---------- END delete file in folder ----------
+[INFO ] [2022-10-23 19:53:02,189] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-23 19:53:12,406] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (70154104cf3d31c4a2c07bd1cfc13880)
+[INFO ] [2022-10-23 19:53:12,418] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@3f28bd56
+[INFO ] [2022-10-23 19:53:12,445] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-23 19:53:13,928] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@53ab0286
+[INFO ] [2022-10-23 19:53:24,090] Post-Condition: Close browser
+[INFO ] [2022-10-23 20:31:36,133] ---------- START delete file in folder ----------
+[INFO ] [2022-10-23 20:31:36,134] ---------- END delete file in folder ----------
+[INFO ] [2022-10-23 20:31:36,149] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-23 20:31:41,219] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (374470387ba3bc9857a2e5ab5fe4040a)
+[INFO ] [2022-10-23 20:31:41,228] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@4d18aa28
+[INFO ] [2022-10-23 20:31:41,247] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-23 20:31:43,194] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@4a3329b9
+[INFO ] [2022-10-23 20:31:46,596] Post-Condition: Close browser
+[INFO ] [2022-10-23 20:32:17,103] ---------- START delete file in folder ----------
+[INFO ] [2022-10-23 20:32:17,104] ---------- END delete file in folder ----------
+[INFO ] [2022-10-23 20:32:17,119] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-23 20:32:23,436] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (44530da6921f1d145eb5d45f541438f1)
+[INFO ] [2022-10-23 20:32:23,445] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-23 20:32:23,470] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-23 20:32:25,109] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-23 20:32:31,517] Post-Condition: Close browser
+[INFO ] [2022-10-23 20:48:37,022] ---------- START delete file in folder ----------
+[INFO ] [2022-10-23 20:48:37,023] ---------- END delete file in folder ----------
+[INFO ] [2022-10-23 20:48:37,039] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-23 20:48:42,392] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (763774d3246faf7b56947a6421b152f4)
+[INFO ] [2022-10-23 20:48:42,406] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-23 20:48:42,447] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-23 20:48:44,301] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-23 20:48:53,760] Post-Condition: Close browser
+[INFO ] [2022-10-23 20:50:30,666] ---------- START delete file in folder ----------
+[INFO ] [2022-10-23 20:50:30,668] ---------- END delete file in folder ----------
+[INFO ] [2022-10-23 20:50:30,684] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-23 20:50:36,047] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (6dcd25513ecb5524d0ca0dbb2987bfed)
+[INFO ] [2022-10-23 20:50:36,058] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-23 20:50:36,097] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-23 20:50:38,322] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-23 20:50:47,949] Post-Condition: Close browser
+[INFO ] [2022-10-23 21:19:24,620] ---------- START delete file in folder ----------
+[INFO ] [2022-10-23 21:19:24,621] ---------- END delete file in folder ----------
+[INFO ] [2022-10-23 21:19:24,637] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-23 21:19:31,402] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (3940466c542f073b3ceadeaea63b7fb3)
+[INFO ] [2022-10-23 21:19:31,407] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@2b5825fa
+[INFO ] [2022-10-23 21:19:31,423] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-23 21:19:33,722] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@7894f09b
+[INFO ] [2022-10-23 21:19:56,088] Post-Condition: Close browser
+[INFO ] [2022-10-23 21:43:06,460] ---------- START delete file in folder ----------
+[INFO ] [2022-10-23 21:43:06,461] ---------- END delete file in folder ----------
+[INFO ] [2022-10-23 21:43:06,480] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-23 21:43:11,755] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (937256e988ce62f489548279eda1fa63)
+[INFO ] [2022-10-23 21:43:11,768] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-23 21:43:11,799] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-23 21:43:13,692] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-23 21:43:58,300] Post-Condition: Close browser
+[INFO ] [2022-10-23 21:48:41,111] ---------- START delete file in folder ----------
+[INFO ] [2022-10-23 21:48:41,113] ---------- END delete file in folder ----------
+[INFO ] [2022-10-23 21:48:41,135] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-23 21:48:46,401] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (909ae199979abccf395b2f9725f68541)
+[INFO ] [2022-10-23 21:48:46,417] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-23 21:48:46,452] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-23 21:48:48,395] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-23 21:49:34,713] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-23 21:49:34,724] Post-Condition: Close browser
+[INFO ] [2022-10-23 22:02:48,492] ---------- START delete file in folder ----------
+[INFO ] [2022-10-23 22:02:48,493] ---------- END delete file in folder ----------
+[INFO ] [2022-10-23 22:02:48,511] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-23 22:02:54,677] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (4b4fdcc9931351cd8875d313cebbdfbc)
+[INFO ] [2022-10-23 22:02:54,691] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-23 22:02:54,714] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-23 22:02:56,505] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-23 22:03:46,379]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-23 22:03:46,387] Post-Condition: Close browser
+[INFO ] [2022-10-24 22:01:47,301] ---------- START delete file in folder ----------
+[INFO ] [2022-10-24 22:01:47,302] ---------- END delete file in folder ----------
+[INFO ] [2022-10-24 22:01:47,317] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-24 22:01:54,851] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (68e43f358a5deebaf7f548d8e0c68047)
+[INFO ] [2022-10-24 22:01:54,858] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@3f28bd56
+[INFO ] [2022-10-24 22:01:54,878] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-24 22:01:57,179] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@53ab0286
+[INFO ] [2022-10-24 22:02:46,926]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-24 22:02:48,011] Post-Condition: Close browser
+[INFO ] [2022-10-24 22:10:22,238] ---------- START delete file in folder ----------
+[INFO ] [2022-10-24 22:10:22,241] ---------- END delete file in folder ----------
+[INFO ] [2022-10-24 22:10:22,256] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-24 22:10:28,017] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (caed67063f2ba9623d0a35637869115d)
+[INFO ] [2022-10-24 22:10:28,025] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-24 22:10:28,065] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-24 22:10:30,086] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-24 22:11:20,508]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-24 22:11:20,510] Thong tin cua : true
+[INFO ] [2022-10-24 22:11:21,645] Post-Condition: Close browser
+[INFO ] [2022-10-24 22:46:02,805] ---------- START delete file in folder ----------
+[INFO ] [2022-10-24 22:46:02,806] ---------- END delete file in folder ----------
+[INFO ] [2022-10-24 22:46:02,824] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-24 22:46:07,917] In thong tin cua driver: null
+[INFO ] [2022-10-24 22:48:01,394] ---------- START delete file in folder ----------
+[INFO ] [2022-10-24 22:48:01,397] ---------- END delete file in folder ----------
+[INFO ] [2022-10-24 22:48:01,414] Pre-Condition - Open browser 'chRome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-24 22:48:09,149] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (67fe5faec1df420f5903f30daa8cf4da)
+[INFO ] [2022-10-24 22:48:09,159] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-24 22:48:09,193] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-24 22:48:10,177] In thong tin cua Home Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-24 22:48:59,617]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-24 22:48:59,620] Thong tin cua : true
+[INFO ] [2022-10-24 22:49:00,540] Post-Condition: Close browser
+[INFO ] [2022-10-24 23:00:21,431] ---------- START delete file in folder ----------
+[INFO ] [2022-10-24 23:00:21,433] ---------- END delete file in folder ----------
+[INFO ] [2022-10-24 23:00:21,449] Pre-Condition - Open browser 'chRome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-24 23:00:26,785] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (18510e58042263a730463d6eedb7f02d)
+[INFO ] [2022-10-24 23:00:26,785] In thong tin cua Home Page: null
+[INFO ] [2022-10-24 23:00:26,819] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-24 23:00:26,832] Post-Condition: Close browser
+[INFO ] [2022-10-24 23:20:54,883] ---------- START delete file in folder ----------
+[INFO ] [2022-10-24 23:20:54,885] ---------- END delete file in folder ----------
+[INFO ] [2022-10-24 23:20:54,927] Pre-Condition - Open browser 'chRome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-24 23:21:01,963] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (73e3f367ddd8544944eec72547e2a097)
+[INFO ] [2022-10-24 23:21:01,975] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@12c1826
+[INFO ] [2022-10-24 23:21:02,006] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-24 23:21:03,007] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@f5b08d4
+[INFO ] [2022-10-24 23:21:52,452]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-24 23:21:52,457] Thong tin cua : true
+[INFO ] [2022-10-24 23:21:53,347] Post-Condition: Close browser
+[INFO ] [2022-10-24 23:23:42,998] ---------- START delete file in folder ----------
+[INFO ] [2022-10-24 23:23:42,999] ---------- END delete file in folder ----------
+[INFO ] [2022-10-24 23:23:43,013] Pre-Condition - Open browser 'chRome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-24 23:23:48,040] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (57d781c75688636e1b2ba12e216ca6a8)
+[INFO ] [2022-10-24 23:23:48,050] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-24 23:23:48,070] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-24 23:23:49,449] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-24 23:24:38,497]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-24 23:24:38,499] Thong tin cua : true
+[INFO ] [2022-10-24 23:24:39,529] Post-Condition: Close browser
+[INFO ] [2022-10-25 21:17:32,439] ---------- START delete file in folder ----------
+[INFO ] [2022-10-25 21:17:32,440] ---------- END delete file in folder ----------
+[INFO ] [2022-10-25 21:17:32,463] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-25 21:33:29,795] ---------- START delete file in folder ----------
+[INFO ] [2022-10-25 21:33:29,797] ---------- END delete file in folder ----------
+[INFO ] [2022-10-25 21:33:29,814] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-25 21:36:33,298] ---------- START delete file in folder ----------
+[INFO ] [2022-10-25 21:36:33,299] ---------- END delete file in folder ----------
+[INFO ] [2022-10-25 21:36:33,318] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-25 22:37:16,695] ---------- START delete file in folder ----------
+[INFO ] [2022-10-25 22:37:16,697] ---------- END delete file in folder ----------
+[INFO ] [2022-10-25 22:37:16,716] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-25 22:44:50,845] ---------- START delete file in folder ----------
+[INFO ] [2022-10-25 22:44:50,847] ---------- END delete file in folder ----------
+[INFO ] [2022-10-25 22:44:50,868] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-25 22:48:48,070] ---------- START delete file in folder ----------
+[INFO ] [2022-10-25 22:48:48,071] ---------- END delete file in folder ----------
+[INFO ] [2022-10-25 22:48:48,085] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-25 22:48:58,385] In thong tin cua driver: FirefoxDriver: firefox on WINDOWS (78d44b80-ea3f-4cc2-ac96-1427ac36aa60)
+[INFO ] [2022-10-25 22:48:58,397] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@73302995
+[INFO ] [2022-10-25 22:48:58,440] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-25 22:49:00,278] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@1458ed9c
+[INFO ] [2022-10-25 22:49:49,352]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-25 22:49:49,354] Thong tin cua : true
+[INFO ] [2022-10-25 22:49:50,320] Post-Condition: Close browser
+[INFO ] [2022-10-29 16:15:06,889] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 16:15:06,891] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 16:15:06,908] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 16:15:19,305] In thong tin cua driver: FirefoxDriver: firefox on WINDOWS (57cf6496-7916-4d8a-873f-e3bf11cef32c)
+[INFO ] [2022-10-29 16:15:19,336] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@73302995
+[INFO ] [2022-10-29 16:15:19,368] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 16:15:21,408] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@1458ed9c
+[INFO ] [2022-10-29 16:16:10,453]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 16:16:10,456] Thong tin cua : true
+[INFO ] [2022-10-29 16:16:11,325] Post-Condition: Close browser
+[INFO ] [2022-10-29 16:17:15,141] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 16:17:15,142] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 16:17:15,159] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 16:17:25,459] In thong tin cua driver: FirefoxDriver: firefox on WINDOWS (2c6cd7bf-0b1f-4dfa-a3a7-e86e0fcfbc3f)
+[INFO ] [2022-10-29 16:17:25,466] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@73302995
+[INFO ] [2022-10-29 16:17:25,527] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 16:17:27,417] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@1458ed9c
+[INFO ] [2022-10-29 16:18:55,784] Post-Condition: Close browser
+[INFO ] [2022-10-29 16:20:36,322] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 16:20:36,323] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 16:20:36,341] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 16:20:45,454] In thong tin cua driver: FirefoxDriver: firefox on WINDOWS (dd6c2eaf-614d-410b-8691-da81412c4134)
+[INFO ] [2022-10-29 16:20:45,478] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@2d778add
+[INFO ] [2022-10-29 16:20:45,517] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 16:20:47,546] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@1800a575
+[INFO ] [2022-10-29 16:22:16,215] Post-Condition: Close browser
+[INFO ] [2022-10-29 16:24:08,334] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 16:24:08,335] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 16:24:08,351] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 16:24:16,818] In thong tin cua driver: FirefoxDriver: firefox on WINDOWS (189b38ec-270b-481f-bfaa-ada0259d915c)
+[INFO ] [2022-10-29 16:24:16,826] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@73302995
+[INFO ] [2022-10-29 16:24:16,935] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 16:24:18,559] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@1458ed9c
+[INFO ] [2022-10-29 16:25:06,349]  Click on Register Button
+[INFO ] [2022-10-29 16:25:46,921] Post-Condition: Close browser
+[INFO ] [2022-10-29 16:26:23,488] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 16:26:23,489] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 16:26:23,504] Pre-Condition - Open browser 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 16:26:35,624] In thong tin cua driver: FirefoxDriver: firefox on WINDOWS (f6e053ca-6e4a-4243-9da2-42207337abb8)
+[INFO ] [2022-10-29 16:26:35,634] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@73302995
+[INFO ] [2022-10-29 16:26:35,659] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 16:26:39,961] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@1458ed9c
+[INFO ] [2022-10-29 16:27:28,905]  Click on Register Button
+[INFO ] [2022-10-29 16:27:28,988]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 16:27:28,990] Thong tin cua : true
+[INFO ] [2022-10-29 16:27:29,849] Post-Condition: Close browser
+[INFO ] [2022-10-29 16:48:43,515] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 16:48:43,517] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 16:48:43,536] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 16:48:54,036] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (1c21d9d69104c4e5d533f919e454e5bf)
+[INFO ] [2022-10-29 16:48:54,042] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@3f28bd56
+[INFO ] [2022-10-29 16:48:54,064] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 16:48:54,852] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@53ab0286
+[INFO ] [2022-10-29 16:49:44,055]  Click on Register Button
+[INFO ] [2022-10-29 16:49:44,162]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 16:49:44,166] Thong tin cua : true
+[INFO ] [2022-10-29 16:49:45,033] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-10-29 16:49:45,650] Post-Condition: Close browser
+[INFO ] [2022-10-29 16:53:34,248] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 16:53:34,250] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 16:53:34,265] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 16:53:41,645] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (e8f4ca1d376c042031e5d8cab923d9c3)
+[INFO ] [2022-10-29 16:53:41,653] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-29 16:53:41,676] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 16:53:42,764] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-29 16:53:49,075]  Click on Register Button
+[INFO ] [2022-10-29 16:53:49,173]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 16:53:49,175] Thong tin cua : true
+[INFO ] [2022-10-29 16:53:50,049] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-10-29 16:53:55,934] Post-Condition: Close browser
+[INFO ] [2022-10-29 16:54:26,538] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 16:54:26,540] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 16:54:26,554] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 16:54:31,506] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (ad2f30a9a4b2a049ce74f22145107012)
+[INFO ] [2022-10-29 16:54:31,513] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-29 16:54:31,537] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 16:54:33,039] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-29 16:54:39,271]  Click on Register Button
+[INFO ] [2022-10-29 16:54:39,363]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 16:54:39,365] Thong tin cua : true
+[INFO ] [2022-10-29 16:54:40,203] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-10-29 16:54:46,014] Post-Condition: Close browser
+[INFO ] [2022-10-29 16:55:10,683] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 16:55:10,685] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 16:55:10,699] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 16:55:16,457] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (21d50caa35388cefadeb74f6ed81ef36)
+[INFO ] [2022-10-29 16:55:16,465] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-29 16:55:16,479] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 16:55:17,438] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-29 16:55:23,506]  Click on Register Button
+[INFO ] [2022-10-29 16:55:23,610]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 16:55:23,613] Thong tin cua : true
+[INFO ] [2022-10-29 16:55:24,520] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-10-29 16:55:30,257] Post-Condition: Close browser
+[INFO ] [2022-10-29 17:21:01,978] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 17:21:01,979] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 17:21:01,993] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 17:21:07,677] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (bb8088ee6b9a03e53fce0ed057eb821b)
+[INFO ] [2022-10-29 17:21:07,685] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-29 17:21:07,720] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 17:21:09,237] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-29 17:21:10,894] Thong tin cua Email : afc8618@mail.net
+[INFO ] [2022-10-29 17:21:11,308] Thong tin cua Password : 123456
+[INFO ] [2022-10-29 17:21:17,364]  Click on Register Button
+[INFO ] [2022-10-29 17:21:17,524]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 17:21:17,526] Thong tin cua : true
+[INFO ] [2022-10-29 17:21:18,437] Post-Condition: Close browser
+[INFO ] [2022-10-29 17:26:32,744] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 17:26:32,746] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 17:26:32,761] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 17:26:40,867] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (3a60c4b0c23f9c360c8d55e03b6614e6)
+[INFO ] [2022-10-29 17:26:40,874] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-29 17:26:40,915] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 17:26:42,760] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-29 17:26:44,471] Thong tin cua Email : afc9014@mail.net
+[INFO ] [2022-10-29 17:26:44,942] Thong tin cua Password : 123456
+[INFO ] [2022-10-29 17:26:49,417]  Click on Register Button
+[INFO ] [2022-10-29 17:26:49,520]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 17:26:49,523] Thong tin cua : true
+[INFO ] [2022-10-29 17:26:50,595] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-10-29 17:26:56,643] Post-Condition: Close browser
+[INFO ] [2022-10-29 17:29:33,524] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 17:29:33,526] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 17:29:33,541] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 17:29:42,058] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (47e58776b31f53c7680e7ad8f23960f5)
+[INFO ] [2022-10-29 17:29:42,067] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-29 17:29:42,090] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 17:29:44,789] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-29 17:29:46,517] Thong tin cua Email : afc5225@mail.net
+[INFO ] [2022-10-29 17:29:46,989] Thong tin cua Password : 123456
+[INFO ] [2022-10-29 17:29:52,861]  Click on Register Button
+[INFO ] [2022-10-29 17:29:52,962]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 17:29:52,966] Thong tin cua : true
+[INFO ] [2022-10-29 17:29:54,041] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-10-29 17:30:01,706] Post-Condition: Close browser
+[INFO ] [2022-10-29 17:38:52,526] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 17:38:52,528] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 17:38:52,545] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 17:38:59,031] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (7eca07e1559a25e065ffa098171f8150)
+[INFO ] [2022-10-29 17:38:59,042] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-29 17:38:59,072] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 17:39:00,795] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-29 17:39:02,541] Thong tin cua Email : afc3022@mail.net
+[INFO ] [2022-10-29 17:39:03,071] Thong tin cua Password : 123456
+[INFO ] [2022-10-29 17:39:07,695]  Click on Register Button
+[INFO ] [2022-10-29 17:39:07,793]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 17:39:07,795] Thong tin cua : true
+[INFO ] [2022-10-29 17:39:08,885] In thong tin home page: pageObject.nopCommerce.tri.HomePageObjectTri@589b028e
+[INFO ] [2022-10-29 17:39:08,893] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-10-29 17:39:09,673] In thong tin login page: pageObject.nopCommerce.tri.LoginPageObjectTri@48d7ad8b
+[INFO ] [2022-10-29 17:39:14,676] Post-Condition: Close browser
+[INFO ] [2022-10-29 17:42:35,089] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 17:42:35,091] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 17:42:35,110] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 17:42:43,572] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (2311880d466e1f952eaea919e308aa75)
+[INFO ] [2022-10-29 17:42:43,580] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-29 17:42:43,601] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 17:42:45,113] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-29 17:42:46,769] Thong tin cua Email : afc9761@mail.net
+[INFO ] [2022-10-29 17:42:47,178] Thong tin cua Password : 123456
+[INFO ] [2022-10-29 17:42:51,424]  Click on Register Button
+[INFO ] [2022-10-29 17:42:51,508]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 17:42:51,511] Thong tin cua : true
+[INFO ] [2022-10-29 17:42:52,466] In thong tin home page: pageObject.nopCommerce.tri.HomePageObjectTri@589b028e
+[INFO ] [2022-10-29 17:42:52,476] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-10-29 17:42:53,240] In thong tin login page: pageObject.nopCommerce.tri.LoginPageObjectTri@48d7ad8b
+[INFO ] [2022-10-29 17:42:58,668] Post-Condition: Close browser
+[INFO ] [2022-10-29 17:45:42,914] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 17:45:42,916] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 17:45:42,932] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 17:45:51,394] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (be5c36fd445dc41a0aadb55a2f83af6f)
+[INFO ] [2022-10-29 17:45:51,405] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-29 17:45:51,428] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 17:45:53,152] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-29 17:45:54,968] Thong tin cua Email : afc6456@mail.net
+[INFO ] [2022-10-29 17:45:55,419] Thong tin cua Password : 123456
+[INFO ] [2022-10-29 17:46:01,096]  Click on Register Button
+[INFO ] [2022-10-29 17:46:01,195]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 17:46:01,197] Thong tin cua : true
+[INFO ] [2022-10-29 17:46:02,271] In thong tin home page: pageObject.nopCommerce.tri.HomePageObjectTri@589b028e
+[INFO ] [2022-10-29 17:46:02,278] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-10-29 17:46:04,794] In thong tin login page: pageObject.nopCommerce.tri.LoginPageObjectTri@48d7ad8b
+[INFO ] [2022-10-29 17:46:40,205] Post-Condition: Close browser
+[INFO ] [2022-10-29 17:48:07,701] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 17:48:07,703] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 17:48:07,722] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 17:48:15,855] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (55412de18440ecadbb8118bcdc99fae5)
+[INFO ] [2022-10-29 17:48:15,863] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-29 17:48:15,882] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 17:48:17,605] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-29 17:48:19,564] Thong tin cua Email : afc8204@mail.net
+[INFO ] [2022-10-29 17:48:20,001] Thong tin cua Password : 123456
+[INFO ] [2022-10-29 17:48:24,340]  Click on Register Button
+[INFO ] [2022-10-29 17:48:24,447]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 17:48:24,450] Thong tin cua : true
+[INFO ] [2022-10-29 17:48:25,347] In thong tin home page: pageObject.nopCommerce.tri.HomePageObjectTri@589b028e
+[INFO ] [2022-10-29 17:48:25,361] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-10-29 17:48:26,275] In thong tin login page: pageObject.nopCommerce.tri.LoginPageObjectTri@48d7ad8b
+[INFO ] [2022-10-29 17:48:31,492] Enter Your Email : afc8204@mail.net
+[INFO ] [2022-10-29 17:48:34,717] Enter Your Password : 123456
+[INFO ] [2022-10-29 17:48:39,050] Click To Login Page
+[INFO ] [2022-10-29 17:48:44,058] Post-Condition: Close browser
+[INFO ] [2022-10-29 18:04:27,135] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 18:04:27,137] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 18:04:27,156] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 18:06:09,682] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 18:06:09,683] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 18:06:09,698] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 18:06:17,762] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (216139b66a9316b8c3dfc9412b2399ef)
+[INFO ] [2022-10-29 18:06:17,769] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-29 18:06:17,798] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 18:06:19,234] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-29 18:06:21,048] Thong tin cua Email : afc2187@mail.net
+[INFO ] [2022-10-29 18:06:21,463] Thong tin cua Password : 123456
+[INFO ] [2022-10-29 18:06:25,762]  Click on Register Button
+[INFO ] [2022-10-29 18:06:25,853]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 18:06:25,856] Thong tin cua : true
+[INFO ] [2022-10-29 18:06:26,756] In thong tin home page: pageObject.nopCommerce.tri.HomePageObjectTri@589b028e
+[INFO ] [2022-10-29 18:06:26,767] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-10-29 18:06:27,409] In thong tin login page: pageObject.nopCommerce.tri.LoginPageObjectTri@48d7ad8b
+[INFO ] [2022-10-29 18:06:32,640] Enter Your Email : afc2187@mail.net
+[INFO ] [2022-10-29 18:06:35,864] Enter Your Password : 123456
+[INFO ] [2022-10-29 18:06:39,795] Click To Login Page
+[INFO ] [2022-10-29 18:06:44,900]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 18:06:44,902] Post-Condition: Close browser
+[INFO ] [2022-10-29 18:10:01,310] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 18:10:01,313] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 18:10:01,330] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 18:10:09,812] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (1643ab26fdb3f4540fa1d152052de325)
+[INFO ] [2022-10-29 18:10:09,820] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-29 18:10:09,852] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 18:10:11,425] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-29 18:10:13,101] Thong tin cua Email : afc809@mail.net
+[INFO ] [2022-10-29 18:10:13,641] Thong tin cua Password : 123456
+[INFO ] [2022-10-29 18:10:17,984]  Click on Register Button
+[INFO ] [2022-10-29 18:10:18,069]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 18:10:18,072] Thong tin cua : true
+[INFO ] [2022-10-29 18:10:19,079] In thong tin home page: pageObject.nopCommerce.tri.HomePageObjectTri@589b028e
+[INFO ] [2022-10-29 18:10:19,094] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-10-29 18:10:20,075] In thong tin login page: pageObject.nopCommerce.tri.LoginPageObjectTri@48d7ad8b
+[INFO ] [2022-10-29 18:10:25,560] Post-Condition: Close browser
+[INFO ] [2022-10-29 18:21:58,829] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 18:21:58,831] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 18:21:58,846] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 18:22:04,747] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (1f565020d81b28ec939d35d6b5585727)
+[INFO ] [2022-10-29 18:22:04,756] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-29 18:22:04,777] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 18:22:05,451] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-10-29 18:22:05,999] Post-Condition: Close browser
+[INFO ] [2022-10-29 18:23:14,239] ---------- START delete file in folder ----------
+[INFO ] [2022-10-29 18:23:14,242] ---------- END delete file in folder ----------
+[INFO ] [2022-10-29 18:23:14,259] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-29 18:23:22,173] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (e197d5e7e68ddb5e1345481c1d9bfdf8)
+[INFO ] [2022-10-29 18:23:22,182] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-10-29 18:23:22,209] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-10-29 18:23:23,893] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-10-29 18:23:30,722] Thong tin cua Email : afc290@mail.net
+[INFO ] [2022-10-29 18:23:31,194] Thong tin cua Password : 123456
+[INFO ] [2022-10-29 18:23:35,519]  Click on Register Button
+[INFO ] [2022-10-29 18:23:35,594]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 18:23:35,596] Thong tin cua : true
+[INFO ] [2022-10-29 18:23:36,494] In thong tin home page: pageObject.nopCommerce.tri.HomePageObjectTri@589b028e
+[INFO ] [2022-10-29 18:23:36,503] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-10-29 18:23:37,151] In thong tin login page: pageObject.nopCommerce.tri.LoginPageObjectTri@48d7ad8b
+[INFO ] [2022-10-29 18:23:42,416] Enter Your Email : afc290@mail.net
+[INFO ] [2022-10-29 18:23:45,645] Enter Your Password : 123456
+[INFO ] [2022-10-29 18:23:49,576] Click To Login Page
+[INFO ] [2022-10-29 18:23:54,678]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-29 18:23:54,680] Post-Condition: Close browser
+[INFO ] [2022-11-07 20:22:53,715] ---------- START delete file in folder ----------
+[INFO ] [2022-11-07 20:22:53,717] ---------- END delete file in folder ----------
+[INFO ] [2022-11-07 20:22:53,735] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-11-07 20:23:00,589] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (73afa3d2e798a094c64e80467b9412c0)
+[INFO ] [2022-11-07 20:23:00,618] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@3f28bd56
+[INFO ] [2022-11-07 20:23:00,636] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-11-07 20:23:02,353] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@53ab0286
+[INFO ] [2022-11-07 20:23:03,964] Thong tin cua Email : afc5611@mail.net
+[INFO ] [2022-11-07 20:23:04,414] Thong tin cua Password : 123456
+[INFO ] [2022-11-07 20:23:08,792]  Click on Register Button
+[INFO ] [2022-11-07 20:23:08,893]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-07 20:23:08,896] Thong tin cua : true
+[INFO ] [2022-11-07 20:23:09,760] In thong tin home page: pageObject.nopCommerce.tri.HomePageObjectTri@4ee33af7
+[INFO ] [2022-11-07 20:23:09,770] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-11-07 20:23:10,494] In thong tin login page: pageObject.nopCommerce.tri.LoginPageObjectTri@3c2772d1
+[INFO ] [2022-11-07 20:23:15,698] Enter Your Email : afc5611@mail.net
+[INFO ] [2022-11-07 20:23:18,967] Enter Your Password : 123456
+[INFO ] [2022-11-07 20:23:22,843] Click To Login Page
+[INFO ] [2022-11-07 20:23:27,934]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-07 20:23:27,936] Post-Condition: Close browser
+[INFO ] [2022-11-07 23:30:13,720] ---------- START delete file in folder ----------
+[INFO ] [2022-11-07 23:30:13,722] ---------- END delete file in folder ----------
+[INFO ] [2022-11-07 23:30:13,740] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-11-07 23:30:19,305] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (b0c6dd8654eee7fc2e0ee3f1fb27ff81)
+[INFO ] [2022-11-07 23:30:19,326] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@a5bd950
+[INFO ] [2022-11-07 23:30:19,359] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-11-07 23:30:21,224] In thong tin cua Register Page: pageObject.nopCommerce.tri.RegisterPageObjectTri@2b95e48b
+[INFO ] [2022-11-07 23:30:22,878] Thong tin cua Email : afc4650@mail.net
+[INFO ] [2022-11-07 23:30:23,300] Thong tin cua Password : 123456
+[INFO ] [2022-11-07 23:30:27,790]  Click on Register Button
+[INFO ] [2022-11-07 23:30:27,882]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-07 23:30:27,884] Thong tin cua : true
+[INFO ] [2022-11-07 23:30:28,892] In thong tin home page: pageObject.nopCommerce.tri.HomePageObjectTri@589b028e
+[INFO ] [2022-11-07 23:30:28,906] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-11-07 23:30:30,033] In thong tin login page: pageObject.nopCommerce.tri.LoginPageObjectTri@48d7ad8b
+[INFO ] [2022-11-07 23:30:35,246] Enter Your Email : afc4650@mail.net
+[INFO ] [2022-11-07 23:30:38,479] Enter Your Password : 123456
+[INFO ] [2022-11-07 23:30:42,471] Click To Login Page
+[INFO ] [2022-11-07 23:30:47,565]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-07 23:30:47,568] Post-Condition: Close browser
+[INFO ] [2022-11-19 20:26:18,455] ---------- START delete file in folder ----------
+[INFO ] [2022-11-19 20:26:18,457] ---------- END delete file in folder ----------
+[INFO ] [2022-11-19 20:26:18,474] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-11-19 20:26:25,577] In thong tin cua driver: ChromeDriver: chrome on WINDOWS (f86ea318d2e55b197e4061d9b31eb9b2)
+[INFO ] [2022-11-19 20:26:25,588] In thong tin cua Home Page: pageObject.nopCommerce.tri.HomePageObjectTri@3f28bd56
+[INFO ] [2022-11-19 20:26:25,606] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-11-19 20:26:27,252] Click to Gender Male Radio
+[INFO ] [2022-11-19 20:26:27,401] Enter First Name Textbox
+[INFO ] [2022-11-19 20:26:27,608] Enter Last Name Textbox
+[INFO ] [2022-11-19 20:26:27,807] Select Day from Dropdown
+[INFO ] [2022-11-19 20:26:27,991] Select Month from Dropdown
+[INFO ] [2022-11-19 20:26:28,139] Select Year from Dropdown
+[INFO ] [2022-11-19 20:26:28,279] Enter Email Adress from Textbox
+[INFO ] [2022-11-19 20:26:28,497] Enter Company Name from Textbox
+[INFO ] [2022-11-19 20:26:28,706] Enter Password from Textbox
+[INFO ] [2022-11-19 20:26:28,918] Enter Confirm Password from Textbox
+[INFO ] [2022-11-19 20:26:29,143] Click To Register Button
+[INFO ] [2022-11-19 20:26:33,309] Verify the register is successfully
+[INFO ] [2022-11-19 20:26:33,402]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 20:26:33,405] Click To Logout Button
+[INFO ] [2022-11-19 20:26:34,426] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-11-19 20:26:36,760] Enter Email Address from Textbox
+[INFO ] [2022-11-19 20:26:36,975] Enter Password from Textbox
+[INFO ] [2022-11-19 20:26:37,190] Click To Login Button
+[INFO ] [2022-11-19 20:26:38,126] Verify the login is successfully
+[INFO ] [2022-11-19 20:26:38,216]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 20:26:38,219] Post-Condition: Close browser
+[INFO ] [2022-11-19 20:31:27,041] ---------- START delete file in folder ----------
+[INFO ] [2022-11-19 20:31:27,043] ---------- END delete file in folder ----------
+[INFO ] [2022-11-19 20:31:27,058] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-11-19 20:31:32,693] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-11-19 20:31:34,873] Click to Gender Male Radio
+[INFO ] [2022-11-19 20:31:35,016] Enter First Name Textbox
+[INFO ] [2022-11-19 20:31:35,219] Enter Last Name Textbox
+[INFO ] [2022-11-19 20:31:35,429] Select Day from Dropdown
+[INFO ] [2022-11-19 20:31:35,620] Select Month from Dropdown
+[INFO ] [2022-11-19 20:31:35,780] Select Year from Dropdown
+[INFO ] [2022-11-19 20:31:35,949] Enter Email Adress from Textbox
+[INFO ] [2022-11-19 20:31:36,177] Enter Company Name from Textbox
+[INFO ] [2022-11-19 20:31:36,391] Enter Password from Textbox
+[INFO ] [2022-11-19 20:31:36,581] Enter Confirm Password from Textbox
+[INFO ] [2022-11-19 20:31:36,777] Click To Register Button
+[INFO ] [2022-11-19 20:31:41,303] Verify the register is successfully
+[INFO ] [2022-11-19 20:31:41,395]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 20:31:41,397] Click To Logout Button
+[INFO ] [2022-11-19 20:31:42,690] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-11-19 20:31:43,700] Enter Email Address from Textbox
+[INFO ] [2022-11-19 20:31:43,973] Enter Password from Textbox
+[INFO ] [2022-11-19 20:31:44,189] Click To Login Button
+[INFO ] [2022-11-19 20:31:45,326] Verify the login is successfully
+[INFO ] [2022-11-19 20:31:45,468]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 20:31:45,471] Post-Condition: Close browser
+[INFO ] [2022-11-19 20:33:46,269] ---------- START delete file in folder ----------
+[INFO ] [2022-11-19 20:33:46,270] ---------- END delete file in folder ----------
+[INFO ] [2022-11-19 20:33:46,285] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-11-19 20:33:51,631] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-11-19 20:33:53,118] Click to Gender Male Radio
+[INFO ] [2022-11-19 20:33:53,274] Enter First Name Textbox
+[INFO ] [2022-11-19 20:33:53,486] Enter Last Name Textbox
+[INFO ] [2022-11-19 20:33:53,686] Select Day from Dropdown
+[INFO ] [2022-11-19 20:33:53,857] Select Month from Dropdown
+[INFO ] [2022-11-19 20:33:54,003] Select Year from Dropdown
+[INFO ] [2022-11-19 20:33:54,153] Enter Email Adress from Textbox
+[INFO ] [2022-11-19 20:33:54,378] Enter Company Name from Textbox
+[INFO ] [2022-11-19 20:33:54,588] Enter Password from Textbox
+[INFO ] [2022-11-19 20:33:54,814] Enter Confirm Password from Textbox
+[INFO ] [2022-11-19 20:33:55,009] Click To Register Button
+[INFO ] [2022-11-19 20:33:59,092] Verify the register is successfully
+[INFO ] [2022-11-19 20:33:59,398]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 20:33:59,402] Click To Logout Button
+[INFO ] [2022-11-19 20:34:00,561] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-11-19 20:34:01,337] Enter Email Address from Textbox
+[INFO ] [2022-11-19 20:34:01,568] Enter Password from Textbox
+[INFO ] [2022-11-19 20:34:01,770] Click To Login Button
+[INFO ] [2022-11-19 20:34:02,646] Verify the login is successfully
+[INFO ] [2022-11-19 20:34:02,741]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 20:34:02,744] Post-Condition: Close browser
+[INFO ] [2022-11-19 20:35:41,705] ---------- START delete file in folder ----------
+[INFO ] [2022-11-19 20:35:41,706] ---------- END delete file in folder ----------
+[INFO ] [2022-11-19 20:35:41,723] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-11-19 20:35:46,916] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-11-19 20:35:48,975] Click to Gender Male Radio
+[INFO ] [2022-11-19 20:35:49,122] Enter First Name Textbox
+[INFO ] [2022-11-19 20:35:49,331] Enter Last Name Textbox
+[INFO ] [2022-11-19 20:35:49,528] Select Day from Dropdown
+[INFO ] [2022-11-19 20:35:49,687] Select Month from Dropdown
+[INFO ] [2022-11-19 20:35:49,843] Select Year from Dropdown
+[INFO ] [2022-11-19 20:35:49,989] Enter Email Adress from Textbox
+[INFO ] [2022-11-19 20:35:50,207] Enter Company Name from Textbox
+[INFO ] [2022-11-19 20:35:50,421] Enter Password from Textbox
+[INFO ] [2022-11-19 20:35:50,654] Enter Confirm Password from Textbox
+[INFO ] [2022-11-19 20:35:50,872] Click To Register Button
+[INFO ] [2022-11-19 20:35:55,232] Verify the register is successfully
+[INFO ] [2022-11-19 20:35:55,332]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 20:35:55,334] Click To Logout Button
+[INFO ] [2022-11-19 20:35:56,285] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-11-19 20:35:57,239] Enter Email Address from Textbox
+[INFO ] [2022-11-19 20:35:57,572] Enter Password from Textbox
+[INFO ] [2022-11-19 20:35:57,792] Click To Login Button
+[INFO ] [2022-11-19 20:35:58,738] Verify the login is successfully
+[INFO ] [2022-11-19 20:35:58,826]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 20:35:58,829] Post-Condition: Close browser
+[INFO ] [2022-11-19 21:06:48,896] ---------- START delete file in folder ----------
+[INFO ] [2022-11-19 21:06:48,898] ---------- END delete file in folder ----------
+[INFO ] [2022-11-19 21:06:48,913] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-11-19 21:06:54,554] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-11-19 21:06:56,144] Click to Gender Male Radio
+[INFO ] [2022-11-19 21:06:56,302] Enter First Name Textbox
+[INFO ] [2022-11-19 21:06:56,510] Enter Last Name Textbox
+[INFO ] [2022-11-19 21:06:56,720] Select Day from Dropdown
+[INFO ] [2022-11-19 21:06:56,881] Select Month from Dropdown
+[INFO ] [2022-11-19 21:06:57,031] Select Year from Dropdown
+[INFO ] [2022-11-19 21:06:57,174] Enter Email Adress from Textbox
+[INFO ] [2022-11-19 21:06:57,383] Enter Company Name from Textbox
+[INFO ] [2022-11-19 21:06:57,589] Enter Password from Textbox
+[INFO ] [2022-11-19 21:06:57,792] Enter Confirm Password from Textbox
+[INFO ] [2022-11-19 21:06:58,005] Click To Register Button
+[INFO ] [2022-11-19 21:07:02,144] Verify the register is successfully
+[INFO ] [2022-11-19 21:07:02,237]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 21:07:02,239] Click To Logout Button
+[INFO ] [2022-11-19 21:07:03,088] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-11-19 21:07:04,455] Enter Email Address from Textbox
+[INFO ] [2022-11-19 21:07:04,669] Enter Password from Textbox
+[INFO ] [2022-11-19 21:07:04,870] Click To Login Button
+[INFO ] [2022-11-19 21:07:05,753] Verify the login is successfully
+[INFO ] [2022-11-19 21:07:05,848]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 21:07:05,852] Post-Condition: Close browser
+[INFO ] [2022-11-19 22:17:02,097] ---------- START delete file in folder ----------
+[INFO ] [2022-11-19 22:17:02,098] ---------- END delete file in folder ----------
+[INFO ] [2022-11-19 22:17:02,125] Pre-Condition - Open browser 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-11-19 22:17:09,943] TC_01_Register: Click on register link from Home Page
+[INFO ] [2022-11-19 22:17:11,628] Click to Gender Male Radio
+[INFO ] [2022-11-19 22:17:11,782] Enter First Name Textbox
+[INFO ] [2022-11-19 22:17:12,006] Enter Last Name Textbox
+[INFO ] [2022-11-19 22:17:12,215] Select Day from Dropdown
+[INFO ] [2022-11-19 22:17:12,384] Select Month from Dropdown
+[INFO ] [2022-11-19 22:17:12,537] Select Year from Dropdown
+[INFO ] [2022-11-19 22:17:12,688] Enter Email Adress from Textbox
+[INFO ] [2022-11-19 22:17:12,912] Enter Company Name from Textbox
+[INFO ] [2022-11-19 22:17:13,137] Enter Password from Textbox
+[INFO ] [2022-11-19 22:17:13,339] Enter Confirm Password from Textbox
+[INFO ] [2022-11-19 22:17:13,544] Click To Register Button
+[INFO ] [2022-11-19 22:17:17,718] Verify the register is successfully
+[INFO ] [2022-11-19 22:17:17,818]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 22:17:17,820] Click To Logout Button
+[INFO ] [2022-11-19 22:17:18,804] TC_02_Login: Click on Login link from Home Page
+[INFO ] [2022-11-19 22:17:19,613] Enter Email Address from Textbox
+[INFO ] [2022-11-19 22:17:19,823] Enter Password from Textbox
+[INFO ] [2022-11-19 22:17:20,028] Click To Login Button
+[INFO ] [2022-11-19 22:17:20,918] Verify the login is successfully
+[INFO ] [2022-11-19 22:17:21,000]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 22:17:21,001] Post-Condition: Close browser
